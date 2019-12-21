@@ -1,0 +1,8 @@
+1. file.endswith(".csv") or file.startswith('MERGED'), or simply remove the file using list.remove("file name")
+2. year = 1996 then increase by 1 or year = file[6:10], or academic year ccyy-yy (2001-02)
+3. Concatenate within the loop or outside the loop
+4. df=df.reset_index(drop= True) or option ignore_index=True in concat
+5 to plot, use bar or line plot for categorical data on x-axis, or use scatter plot if you conver year to integer.
+Data type: numerical, categorical
+6. for comparison, two plots in one figure or one plot with two lines
+7. Some times, a plot is misleading and tricky.
