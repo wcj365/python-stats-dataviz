@@ -71,9 +71,11 @@
 - Outliers 
 - Trend, Seasonality,and Temporal Dependence
 #### Types of Visualizations:
+- Box Plots
 - Dot Plots
 - Histograms
 - Line Charts
+- Area Charts
 #### Logarithmic Scale (commonly used for economic and financial data)
 #### Visualization of Two or More Variables
 - Multiple Categorical Variable
@@ -82,8 +84,9 @@
 - Multiple Numerical Variables
     - Stacked Dot Plots
     - Stacked Histograms
-    - Scatterplots
-
+    - Stacked Area Plots
+    - Scatterplots (two variables)
+    - Bubble Plots (three variables)
 ## 4. Probability
 ### 4.1 Basics
 - Sample Space
