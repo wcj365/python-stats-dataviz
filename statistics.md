@@ -25,7 +25,7 @@
 ### 1.5 Types of Research
 - Experimental Study
     - Response Variable
-    - Treatments/Control Variable
+    - Treatments/Control Variables
 - Observational Study
 ## 2. Descriptive Statistics
 ### 2.1 Measure of Centrality
@@ -111,7 +111,8 @@
 - Probability Density Function (PDF)
 - Uniform Probability Distribution
 - Normal Distributions
-- Z Distribution (Standardized Normal Distributions with $\sigma\$ = 1, \miu\ = 0)
+    - Standardization
+    - Z Distribution/Score 
 ## 5. Sample Statistics and Sampling Distribution
 ### 5.1 Basics
 - Population Distribution
