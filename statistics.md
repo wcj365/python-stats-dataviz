@@ -39,7 +39,7 @@
 - Range
 - Variance
 - Standard Deviation
-- Outlier (unusual observations)
+- Outliers (unusual observations)
 ### 2.3 Percentiles
 - Quartiles
     - Q1 (25%)
@@ -129,7 +129,7 @@
 - Point Estimators
 - Margin of Errors
 - Confidence Interval
-- Confidence Level (of Confidence Interval)- 
+- Confidence Level (of Confidence Interval) 
 ## 7. Hypothesis Testing
 ### 7.1 One Population
 ### 7.2 Two Populations
