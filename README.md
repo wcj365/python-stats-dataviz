@@ -6,7 +6,7 @@ Statistical Analysis, Data Visualization, and Python Programming All in One Plac
 - I share with students how I learn. I show them how to learn a subject on their own so that they become a life-long learner without relying on teachers or gurus. 
 - I offer no fishes nor fishing gears. I show then where and how to find them.
 - The Internet is the fish pond and Google searches are the fishing gears. 
-- Curiocity may kill a cat, it sure make a student.
+- Curiocity may kill a cat, it sure makes a student.
 ## References
 - [Practice Python](https://www.practicepython.org/)
 - [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
