@@ -1,7 +1,7 @@
 # Statistical Analysis and Data Visualization with Python
-### Course Summary
+## Course Summary
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
-### My pedagogy
+## My Pedagogy
 - I put practice above PowerPoint. I don't focus on syntax or mechanics.
 - I share with students how I learn. I show them how to learn a subject on their own so that they become a life-long learner without relying on teachers or gurus. 
 - I offer no fishes nor fishing gears. I show then where and how to find them.
