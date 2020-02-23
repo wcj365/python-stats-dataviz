@@ -1,5 +1,11 @@
 # Statistical Analysis and Data Visualization with Python
-Learn Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. My pedagogy is workshop - Prefer Practice over PowerPoint. I don't focus on syntax or mechanics. I share with students how I learn. I show students how to learn a subject on their own so that they become a life-long learner without relying on teachers or gurus. I offer no fishes nor fishing gears. I show then where and how to find them. Simply put, "Google Search" does the trick and is what I teach.
+### Course Summary
+Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
+### My pedagogy
+- I put practice above PowerPoint. I don't focus on syntax or mechanics.
+- I share with students how I learn. I show them how to learn a subject on their own so that they become a life-long learner without relying on teachers or gurus. 
+- I offer no fishes nor fishing gears. I show then where and how to find them.
+- The Cloud is the fish pond and Google searches are fishing gears. 
 ## References
 - [Practice Python](https://www.practicepython.org/)
 - [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
