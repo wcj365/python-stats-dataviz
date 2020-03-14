@@ -8,6 +8,8 @@ Statistical Analysis, Data Visualization, and Python Programming All in One Plac
 - Summarize Data (Summary/descriptive statistics)
 - Visualize Data 
 
+Check out this [paper](file:///C:/Users/cjwang/Downloads/v59i10.pdf) for data tidying.
+
 All five steps must be guided by domain knowledge, purpose, and principles. 
 ## My Pedagogy
 - I put practice above PowerPoint. I don't focus on syntax and mechanics.
