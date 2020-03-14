@@ -1,6 +1,14 @@
 # Statistical Analysis and Data Visualization with Python
 ## Course Summary
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
+## Data Visualization Five Steps
+- Define Data (Source, structure, and elements)
+- Tidy up Data (Normalize "messy" data so that is is "Tidy" and ready for next step)
+- Transform Data (Wrangle, munge, cleanse, etc.)
+- Summarize Data (Summary/descriptive statistics)
+- Visualize Data 
+
+All five steps must be guided by domain knowledge, purpose, and principles. 
 ## My Pedagogy
 - I put practice above PowerPoint. I don't focus on syntax and mechanics.
 - I share with students how I learn. I show them how to learn on their own so that they become life-long learners without relying on teachers or gurus. 
