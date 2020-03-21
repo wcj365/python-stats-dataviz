@@ -22,6 +22,7 @@ All five steps must be guided by domain knowledge, purpose, and principles.
 - [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
 - [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
 - [A Gentle Visual Intro to Data Analysis in Python Using Pandas](http://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
+- [Summarising, Aggregating, and Grouping data in Python Pandas]https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
 - [Visualizing Pandas' Pivoting and Reshaping Functions](http://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
 - [Data Visualization with Python](https://www.shanelynn.ie/data-visualisation-in-python-pycon-dublin-2018-presentation/)
 - [From Data to Viz](https://www.data-to-viz.com/)
