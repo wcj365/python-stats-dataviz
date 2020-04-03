@@ -1,4 +1,5 @@
 # Statistical Analysis and Data Visualization with Python
+Online Class WebEx: http://umbc.webex.com/meet/jaywang
 ## Course Summary
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
 ## Data Visualization Five Steps
