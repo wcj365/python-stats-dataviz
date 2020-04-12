@@ -19,6 +19,7 @@ All five steps must be guided by domain knowledge, purpose, and principles.
        - Bar chart/Pareto Chart (sorted)
        - Pie Chart (Avoid it when there are two many categories)
    - Numerical Variable (discrete or continuous, frequency distribution)
+       - Boxplot
        - Histogram
        - Line Chart (time series data)
    - Textual Variable/Data
