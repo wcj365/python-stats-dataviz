@@ -3,11 +3,11 @@ Online Class WebEx: http://umbc.webex.com/meet/jaywang
 ## Course Summary
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
 ## Data Visualization Five Steps
+- Define Problem and Research Questions
 - Define Data (Source, structure, and elements)
-- Tidy up Data (Normalize "messy" data so that is is "Tidy" and ready for next step)
-- Transform Data (Wrangle, munge, cleanse, etc.)
-- Summarize Data (Summary/descriptive statistics)
-- Visualize Data 
+- Tidy/Transform up Data (Normalize "messy" data so that is is "Tidy". Wrangle, munge, cleanse, etc.)
+- Summarize Data (Summarize/Tablulate, descriptive statistics)
+- Visualize Data (static and interactive)
 
 Check out this [paper](https://www.jstatsoft.org/article/view/v059i10) for data tidying.
 
