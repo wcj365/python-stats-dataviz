@@ -21,7 +21,8 @@ All five steps must be guided by domain knowledge, purpose, and principles.
    - Numerical Variable (discrete or continuous, frequency distribution)
        - Boxplot
        - Histogram
-       - Line Chart (time series data)
+       - Line Chart
+       - Area Chart
    - Textual Variable/Data
        - Wordcloud
 - Multiple variables
