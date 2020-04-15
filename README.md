@@ -41,6 +41,7 @@ All five steps must be guided by domain knowledge, purpose, and principles.
 - The Internet is the biggest fish pond and Google is the best fishing gear. 
 - Curiocity may kill a cat, it sure makes a student.
 ## References
+- [AP Statistics Tutorial](https://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
 - [Practice Python](https://www.practicepython.org/)
 - [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
 - [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
