@@ -8,7 +8,7 @@ Statistical Analysis, Data Visualization, and Python Programming All in One Plac
 - **Existing Libraries** - You have no control on existing libraries/algothorithms so be careful in selecting and using them.
 - **Interpretation of Results** - Be careful about what is objective and what is subjective and what data exhibit and what experts know.
 
-The one thing you have absolute control is **the code you write**. Make sure don't write bad code (complicated, incorrect, and uncommented code), so-called **spaghetti code**
+The one thing you have absolute control is **the code you write**. Make sure don't write bad code (complicated, incorrect, and undocumented code), so-called **spaghetti code**.
 
 [Wikipedia's Definition of Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code): 
 
