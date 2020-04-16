@@ -6,7 +6,7 @@ Statistical Analysis, Data Visualization, and Python Programming All in One Plac
 - Written Code - Solely your responsibility - Make sure it is clean, correct, and commented (3C rule)
 - Source Data - Primary data is your responsibity. You have no control over secondary data so be careful in the selection and cleansing.
 - Algothrithms/Libraries - You have no control on libraries and algothorithms so be careful in selecting and using them.
-- Results Interpretation - Be careful about what is objective and what is subjective and what data exhibit and what experts know.
+- Interpretation - Be careful about what is objective and what is subjective and what data exhibit and what experts know.
 
 The one thing you have absolute control is the written code. Make sure don't write bad code. Write good code plus good documentation.
 
