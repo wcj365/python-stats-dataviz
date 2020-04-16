@@ -15,12 +15,12 @@ The one thing you have absolute control is **the code you write**. Make sure don
 > *"Spaghetti code is a pejorative phrase for unstructured and difficult-to-maintain source code. Spaghetti code can be caused by several factors, such as volatile project requirements, lack of programming style rules, and insufficient ability or experience."*
 
 ## Data Visualization Six Steps
-- Define Problem and Ask Questions
-- Define Data Source and Elements
-- Tidy up Data (Normalize "messy" data so that is is "Tidy". )
-- Summarize Data (Summarize/Tablulate, descriptive statistics)
-- Visualize Data (static and interactive)
-- Interpret and Communicate Results
+1. Define Problem and Ask Questions
+2. Define Data Source and Elements
+3. Tidy up Data (Normalize "messy" data so that is is "Tidy". )
+4. Summarize Data (Summarize/Tablulate, descriptive statistics)
+5. Visualize Data (static and interactive)
+6. Interpret and Communicate Results
 
 Check out this [paper](https://www.jstatsoft.org/article/view/v059i10) for data tidying.
 
@@ -54,6 +54,7 @@ All five steps must be guided by domain knowledge, purpose, and principles.
 - The Internet is the biggest fish pond and Google is the best fishing gear. 
 - Curiocity may kill a cat, it sure makes a student.
 ## References
+- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [AP Statistics Tutorial](https://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
 - [Practice Python](https://www.practicepython.org/)
 - [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
