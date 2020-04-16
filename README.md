@@ -3,12 +3,14 @@ Online Class WebEx: http://umbc.webex.com/meet/jaywang
 ## Course Summary
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
 ## Four Major Components of a Data Science Project and Your Responsibility
-- Written Code - Solely your responsibility - Make sure it is clean, correct, and commented (3C rule)
-- Source Data - Primary data is your responsibity. You have no control over secondary data so be careful in the selection and cleansing.
-- Algothrithms/Libraries - You have no control on libraries and algothorithms so be careful in selecting and using them.
-- Interpretation - Be careful about what is objective and what is subjective and what data exhibit and what experts know.
+- **Written Code** - Solely your responsibility - Make sure it is clean, correct, and commented (3C rule)
+- **Source Data** - Primary data is your responsibity. You have no control over secondary data so be careful in the selection and cleansing.
+- **Existing Libraries** - You have no control on existing libraries/algothorithms so be careful in selecting and using them.
+- **Interpretation of Results** - Be careful about what is objective and what is subjective and what data exhibit and what experts know.
 
-The one thing you have absolute control is the written code. Make sure don't write bad code. Write good code plus good documentation.
+The one thing you have absolute control is **the code you write**. Make sure don't write bad code (complicated, incorrect, and uncommented code), so-called **spaghetti code**
+
+[Definition of Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code)
 
 ## Data Visualization Six Steps
 - Define Problem and Ask Questions
