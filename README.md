@@ -24,7 +24,7 @@ The one thing you have absolute control is **the code you write**. Make sure don
 
 Check out this [paper](https://www.jstatsoft.org/article/view/v059i10) for data tidying.
 
-All five steps must be guided by domain knowledge, purpose, and principles. 
+All Six steps must be guided by domain knowledge, purpose, and principles. 
 
 ## Data Visualization - Plots/Charts
 - One Variable
