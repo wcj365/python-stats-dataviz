@@ -10,7 +10,9 @@ Statistical Analysis, Data Visualization, and Python Programming All in One Plac
 
 The one thing you have absolute control is **the code you write**. Make sure don't write bad code (complicated, incorrect, and uncommented code), so-called **spaghetti code**
 
-[Definition of Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code)
+[Wikipedia's Definition of Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code): 
+
+"Spaghetti code is a pejorative phrase for unstructured and difficult-to-maintain source code. Spaghetti code can be caused by several factors, such as volatile project requirements, lack of programming style rules, and insufficient ability or experience."
 
 ## Data Visualization Six Steps
 - Define Problem and Ask Questions
