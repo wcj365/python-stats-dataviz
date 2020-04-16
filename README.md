@@ -2,12 +2,21 @@
 Online Class WebEx: http://umbc.webex.com/meet/jaywang
 ## Course Summary
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
-## Data Visualization Five Steps
-- Define Problem and Research Questions
-- Define Data (Source, structure, and elements)
-- Tidy/Transform up Data (Normalize "messy" data so that is is "Tidy". Wrangle, munge, cleanse, etc.)
+## Four Major Components of a Data Project 
+- Written Code - Your responsibility - Make sure it is clean and correct and well commented
+- Source Data - Primary data is your responsibity. You have no control over secondary data so be selective and careful.
+- Algothrithms/Libraries - You rely on the existing libraries and algothorithms. Be selective and careful.
+- Results Interpretation - Be careful - what is objective and what is subjective. what data exhibit and what experts say.
+
+The one thing you have absolute control is the written code. Make sure don't write bad code. Write good code plus good documentation.
+
+## Data Visualization Six Steps
+- Define Problem and Ask Questions
+- Define Data Source and Elements
+- Tidy up Data (Normalize "messy" data so that is is "Tidy". )
 - Summarize Data (Summarize/Tablulate, descriptive statistics)
 - Visualize Data (static and interactive)
+- Interpret and Communicate Results
 
 Check out this [paper](https://www.jstatsoft.org/article/view/v059i10) for data tidying.
 
