@@ -2,6 +2,17 @@
 Online Class WebEx: http://umbc.webex.com/meet/jaywang
 ## Course Summary
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
+## Four Levels of Python Learning
+- Syntax (most basic programming requirements)
+- Idiom (use of .join for string concatenation)
+- Design Pattern (best practices and approaches to common problems and issues)
+- Architecture (Overall project structure)
+## Four Different Paradigms of Python Programming
+https://blog.newrelic.com/engineering/python-programming-styles/
+- Imperative
+- Procedural
+- Object-oriented
+- Functional
 ## Four Major Components of a Data Science Project and Your Responsibility
 - **Written Code** - Solely your responsibility - Make sure it is clean, correct, and commented (3C rule)
 - **Source Data** - Primary data is your responsibity. You have no control over secondary data so be careful in the selection and cleansing.
@@ -53,17 +64,6 @@ All Six steps must be guided by domain knowledge, purpose, and principles.
 - I offer no fishes nor fishing gears. I show students where and how to find them.
 - The Internet is the biggest fish pond and Google is the best fishing gear. 
 - Curiocity may kill a cat, it sure makes a student.
-## Four Levels of Python Learning
-- Syntax (most basic programming requirements)
-- Idiom (use of .join for string concatenation)
-- Design Pattern (best practices and approaches to common problems and issues)
-- Architecture (Overall project structure)
-## Four Different Paradigms of Python Programming
-https://blog.newrelic.com/engineering/python-programming-styles/
-- Imperative
-- Procedural
-- Object-oriented
-- Functional
 ## References
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [AP Statistics Tutorial](https://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
