@@ -53,7 +53,12 @@ All Six steps must be guided by domain knowledge, purpose, and principles.
 - I offer no fishes nor fishing gears. I show students where and how to find them.
 - The Internet is the biggest fish pond and Google is the best fishing gear. 
 - Curiocity may kill a cat, it sure makes a student.
-## Four Different Paradigm of Python Programming
+## Four Levels of Python Learning
+- Syntax (most basic programming requirements)
+- Idiom (use of .join for string concatenation)
+- Design Pattern (best practices and approaches to common problems and issues)
+- Architecture (Overall project structure)
+## Four Different Paradigms of Python Programming
 https://blog.newrelic.com/engineering/python-programming-styles/
 - Imperative
 - Procedural
