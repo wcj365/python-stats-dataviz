@@ -7,7 +7,7 @@ Statistical Analysis, Data Visualization, and Python Programming All in One Plac
 2. Idiom (use of .join for string concatenation)
 3. Design Pattern (best practices and approaches to common problems and issues)
 4. Architecture (Overall project structure)
-## Four Different Paradigms of Python Programming
+## Four Paradigms of Python Programming
 https://blog.newrelic.com/engineering/python-programming-styles/
 - Imperative
 - Procedural
