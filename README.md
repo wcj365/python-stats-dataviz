@@ -53,6 +53,12 @@ All Six steps must be guided by domain knowledge, purpose, and principles.
 - I offer no fishes nor fishing gears. I show students where and how to find them.
 - The Internet is the biggest fish pond and Google is the best fishing gear. 
 - Curiocity may kill a cat, it sure makes a student.
+## Four Different Paradigm of Python Programming
+https://blog.newrelic.com/engineering/python-programming-styles/
+- Imperative
+- Procedural
+- Object-oriented
+- Functional
 ## References
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [AP Statistics Tutorial](https://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
