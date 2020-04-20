@@ -2,11 +2,15 @@
 Online Class WebEx: http://umbc.webex.com/meet/jaywang
 ## Course Summary
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
-## Four Levels of Python Learning
+## Four Levels of Python Code
+https://m.facebook.com/story.php?story_fbid=2596321403939440&id=1815765878661667
 1. Syntax (most basic programming requirements)
 2. Idiom (use of .join for string concatenation)
-3. Design Pattern (best practices and approaches to common problems and issues)
-4. Architecture (Overall project structure)
+3. Design Patterns (best practices and approaches to common problems and issues)
+4. Architectural (Overall project structure)
+
+Most books and courses teach level 1 and 2 and rarely touch on level 3 and 4.
+
 ## Four Paradigms of Python Programming
 https://blog.newrelic.com/engineering/python-programming-styles/
 - Imperative
