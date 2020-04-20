@@ -79,3 +79,4 @@ All Six steps must be guided by domain knowledge, purpose, and principles.
 - [Introduction to Exploratory Data Analysis in Python.ipynb](https://github.com/ilyagerner/pandas/blob/master/Introduction%20to%20Exploratory%20Data%20Analysis%20in%20Python.ipynb)
 - [Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/)
 - [Ask, Acquire, Analyze, Apply, Announce, Assess](https://qcc.qlik.com/mod/resource/view.php?id=21115) 
+- [A First Course in Data Science](https://arxiv.org/pdf/1905.03121.pdf)
