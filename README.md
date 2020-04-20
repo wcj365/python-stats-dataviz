@@ -78,3 +78,4 @@ All Six steps must be guided by domain knowledge, purpose, and principles.
 - [Data Visualization Best Practices](https://mode.com/analytics-dispatch/data-visualization-best-practices/)
 - [Introduction to Exploratory Data Analysis in Python.ipynb](https://github.com/ilyagerner/pandas/blob/master/Introduction%20to%20Exploratory%20Data%20Analysis%20in%20Python.ipynb)
 - [Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/)
+- [Ask, Acquire, Analyze, Apply, Announce, Assess](file:///C:/Users/cjwang/Downloads/DataInformedDecisionMaking_Infographic.pdf) 
