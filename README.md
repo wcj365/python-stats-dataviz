@@ -29,6 +29,12 @@ The one thing you have absolute control is **the code you write**. Make sure don
 
 > *"Spaghetti code is a pejorative phrase for unstructured and difficult-to-maintain source code. Spaghetti code can be caused by several factors, such as volatile project requirements, lack of programming style rules, and insufficient ability or experience."*
 
+## Jupyter Notebooks
+The name Jupyter comes from the fact that it supports writing code in three popular languages:
+- **Ju**lia
+- **Pyt**hon
+- **R**
+Julia and R are popular for statistical analysis and data science. Python is a more generic programming language that happens to be popular in data science as well, though Python is good for all kinds of development, not just data science.
 ## Data Visualization Six Steps
 1. Define Problem and Ask Questions
 2. Define Data Source and Elements
