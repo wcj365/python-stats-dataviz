@@ -2,6 +2,10 @@
 Online Class WebEx: http://umbc.webex.com/meet/jaywang
 ## Course Summary
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
+## Three Ways to Run Python Code
+- Use Interactive Python Shell (Interpreter)
+- Run Python Scripts through Command Line
+- Use Jupyter Notebooks
 ## Four Levels of Python Code
 https://m.facebook.com/story.php?story_fbid=2596321403939440&id=1815765878661667
 1. Syntax (most basic programming requirements)
