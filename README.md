@@ -2,10 +2,22 @@
 Online Class WebEx: http://umbc.webex.com/meet/jaywang
 ## Course Summary
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
-## Three Ways to Run Python Code
-- Use Interactive Python Shell (Interpreter)
+## Three Ways to Run Python Code and Free Cloud-based Tools
+- Use Interactive Python Shell (Interpreter) 
+    - python.org 
+    - No registeration is required
 - Run Python Scripts through Command Line
+    - pythonanywhere.com
+    - Requires account registeration
+    - Need basic Linux familiarity
 - Use Jupyter Notebooks
+    - Google Colab
+        - Plus: Seemless integration with GitHub
+    - Kaggle.com
+        - Plus: Data science community with public datasets and notebooks for learning 
+    - notebooks.ai 
+        - Plus: Acess to Linux terminal to run Python Scripts and Python Webapps  
+    - Microsoft Azure Notebook
 ## Four Levels of Python Code
 https://m.facebook.com/story.php?story_fbid=2596321403939440&id=1815765878661667
 1. Syntax (most basic programming requirements)
