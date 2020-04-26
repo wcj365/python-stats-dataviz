@@ -34,6 +34,7 @@ The name Jupyter comes from the fact that it supports writing code in three popu
 - **Ju**lia
 - **Pyt**hon
 - **R**
+
 Julia and R are popular for statistical analysis and data science. Python is a more generic programming language that happens to be popular in data science as well, though Python is good for all kinds of development, not just data science.
 ## Data Visualization Six Steps
 1. Define Problem and Ask Questions
