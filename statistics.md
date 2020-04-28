@@ -29,24 +29,24 @@
 - Observational Study
 ## 2. Descriptive Statistics
 ### 2.1 Measure of Centrality
-- Mean
+- Mean (average)
     - Weighted Mean
     - Trimmed Mean
     - Geometric Mean
 - Median
-- Mode
+- Mode (most frequent occurrance)
 ### 2.2 Measure of Dispersion 
-- Range
-- Variance
-- Standard Deviation
+- Range (Maximum - Minimum)
+- Variance (The average of the squared differences from the Mean.)
+- Standard Deviation (The squared root of variance)
 - Outliers (unusual observations)
-### 2.3 Percentiles
+### 2.3 Percentiles, Quantiles, and Quartiles
 - Quartiles
     - Q1 (25%)
     - Q2 (50%, Median)
     - Q3 (75%)    
 - Interquartile Range (IQR) (Q3 - Q1)
-### 2.4 Five-Number Summary/Boxplot/Box and Whisker Plot
+### 2.4 Five-Number Summary (corresponding to Boxplot or Box and Whisker Plot)
 - Min
 - Q1
 - Q2
@@ -100,7 +100,7 @@
     - Thoretical Probability
     - Empiricial Probability
     - Subjective Probability
-- Law of Large Numbers (As observations increases, empiricial probabilities converge to theoretical probabilities)
+- *Law of Large Numbers (LLN)* (As observations increases, empiricial probabilities converge to theoretical probabilities)
 - Independent Events, Conditional Probability, and Bayes' Theorem
 ### 4.2 Discrete Random Variables
 - Probability Distribution Function (PDF)/Probability Mass Function (PMF): F(x) = Pr(X = x) 
@@ -122,16 +122,16 @@
 ### 5.2 Sample Statistics
 - Sample Mean
 - Sample Variance
-- Sample Standard Deviation
+- Sample Standard Deviation (degree of freedom)
 - Samele Standard Error
-- Central Limit Theorem (CLT)
+- *Central Limit Theorem (CLT)*
 ## 6. Interval Estimation
 ### 6.1 Basics
 - Point Estimators
 - Margin of Errors
 - Confidence Interval
 - Confidence Level (of Confidence Interval) 
-## 7. Hypothesis Testing
+## 7. Hypothesis Testing (Challenge the Status Quo)
 ### 7.1 One Population
 ### 7.2 Two Populations
 ## 8. Analysis of Variance (ANOVA)
