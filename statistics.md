@@ -103,12 +103,13 @@
 - Law of Large Numbers (As observations increases, empiricial probabilities converge to theoretical probabilities)
 - Independent Events, Conditional Probability, and Bayes' Theorem
 ### 4.2 Discrete Random Variables
-- Probability Distribution Function (PDF)/Probability Mass Function (PMF)
-- Cumulative Distribution Function (CDF)
+- Probability Distribution Function (PDF)/Probability Mass Function (PMF): F(x) = Pr(X = x) 
+- Cumulative distribution function (CDF): F(x) = Pr(X ≤ x)
 - Bernouli Random Variables
 - Binomial Random Variables
 ### 4.3 Continuous Random Variables
-- Probability Density Function (PDF)
+- Probability Density Function (PDF):F(x) =  P(a < X < b)
+- Cumulative distribution function (CDF): F(x) = Pr(X ≤ x)
 - Uniform Probability Distribution
 - Normal Distributions
     - Standardization
