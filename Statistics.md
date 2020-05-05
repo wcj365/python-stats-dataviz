@@ -28,14 +28,14 @@
     - Treatments/Control Variables
 - Observational Study
 ## 2. Descriptive Statistics
-### 2.1 Measure of Centrality
+### 2.1 Measure of Centrality/Location
 - Mean (average)
     - Weighted Mean
     - Trimmed Mean
     - Geometric Mean
 - Median
 - Mode (most frequent occurrance)
-### 2.2 Measure of Dispersion 
+### 2.2 Measure of Dispersion/Scale
 - Range (Maximum - Minimum)
 - Variance (The average of the squared differences from the Mean.)
 - Standard Deviation (The squared root of variance)
