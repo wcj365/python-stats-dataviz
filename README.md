@@ -1,9 +1,10 @@
 
 ```
-a visitor to New York City asking a passerby for directions to
-the city's famous classical music venue:
-Visitor: Excuse me, how do I get to Carnegie Hall?
-Passerby: Practice, practice, practice!
+    A visitor to New York City asked a passerby for directions to the city's famous classical music venue:
+
+    Visitor: Excuse me, how do I get to Carnegie Hall?
+
+    Passerby: Practice, practice, practice!
 ```
 # Statistical Analysis and Data Visualization with Python
 Online Class WebEx: http://umbc.webex.com/meet/jaywang
