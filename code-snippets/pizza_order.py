@@ -1,5 +1,3 @@
-from faker import Faker
-
 Class PizzaOrder:
 
     def __init__(self, first_name, last_name, order_amount, order_date):
@@ -29,5 +27,5 @@ Class PizzaOrder:
     def retrieve_order_date():
         return order_date
 
-def order_robot():
+
     
