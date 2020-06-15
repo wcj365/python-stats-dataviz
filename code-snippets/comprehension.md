@@ -5,6 +5,7 @@ The most commonly used comprehension is list comprehension.
 
 ## Example
 This is a real-world example from a machine learning project. The The `result` variable is a list of dictionaries:
+
 ![](https://github.com/wcj365/python-stats-dataviz/blob/master/images/comprehension_example.jpg)
 ```python
 result=[{"type":"feature",
