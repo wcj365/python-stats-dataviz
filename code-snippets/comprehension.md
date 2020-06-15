@@ -6,7 +6,7 @@ It applies to all collection types. The most commonly used comprehension is list
 This is a real-world example from a machine learning project. The The `result` variable is a list of dictionaries:
 
 ![](https://github.com/wcj365/python-stats-dataviz/blob/master/images/comprehension_example.jpg)
-```json
+```javascript
 result=[{"type":"feature",
         "properties":{"class":"x","contour":0},
         "geometry":{
