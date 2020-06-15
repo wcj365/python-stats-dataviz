@@ -1,7 +1,6 @@
 # Comprehension
-Comprehension is a Python feature for concise and elegant code.
-It applies to all collection types.
-The most commonly used comprehension is list comprehension.
+*Comprehension* is a feature for writing concise and elegant Python code.
+It applies to all collection types. The most commonly used comprehension is list comprehension.
 
 ## Example
 This is a real-world example from a machine learning project. The The `result` variable is a list of dictionaries:
