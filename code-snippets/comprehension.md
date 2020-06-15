@@ -38,3 +38,4 @@ Here is the simple one-liner solution using *list comprehension*:
 r = [x for x in result if x["properties"]["contour"] == 1]
 ```
 
+Here, we also see the example of accessing the `value` of a dictionary using the `key` in a nested dictionary (dict within a dict). A dictionary contains *key-value pairs*.
