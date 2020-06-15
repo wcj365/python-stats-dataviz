@@ -5,7 +5,7 @@ The most commonly used comprehension is list comprehension.
 
 ## Example
 The `result` variable is a list of dictionaries:
-```python
+```Python
 result=[{"type":"feature",
         "properties":{"class":"x","contour":0},
         "geometry":{
@@ -28,3 +28,11 @@ result=[{"type":"feature",
             }
         }]
 ```
+
+The task is to filter the list to a subset that only contains dictionaries that has the property `contour` value "1".
+Here is the simple one-liner solution using *list comprehension*:
+
+```Python
+r = [x for x in result if x["properties"]["contour"] == 1]
+```
+
