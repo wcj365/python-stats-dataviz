@@ -102,6 +102,7 @@ All Six steps must be guided by domain knowledge, principles, and purposes.
 - Curiocity may kill a cat, it sure makes a student.
 ## References
 - [Interactive Python Tutorial](http://littlecolumns.com/learn/python/)
+- [Practical Data Science for Journalists and Everyone Else](https://investigate.ai/)
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [AP Statistics Tutorial](https://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
 - [Practice Python](https://www.practicepython.org/)
