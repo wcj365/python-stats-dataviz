@@ -10,7 +10,9 @@
 # Statistical Analysis and Data Visualization with Python
 Online Class WebEx: http://umbc.webex.com/meet/jaywang
 ## Course Summary
-Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices. 
+Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices.
+## Textbook
+Python for Data Analysis by Wes McKinny Second Edition
 ## Three Ways to Run Python Code and Free Cloud-based Tools
 - Use Interactive Python Shell (Interpreter) 
     - python.org 
