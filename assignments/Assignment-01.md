@@ -14,10 +14,10 @@ Calculate the following statistics from the 10 integers entered:
 6. Standard Deviation
 
 Make sure:
-- your source code is well formatted and easy to read and understand.
-- Your runtime display - user prompts, use inout inputs and output displays are nicely formatted.
+
 
 **Note:**
+
 1. Use the basic Python concepts and methods. 
 Special Python libraries such as statistics, scipy, or numpy are not allowed. 
 You may need to use: 
@@ -32,9 +32,13 @@ You may need to use:
     - A Python script (.py)
     - A Jupyter Notebook (.ipynb)
 
-3. Provide good comments/documentations in both the Python script (use comments) and the Jupyter Notebook (use Markdown and comments).
+3. Your source code should be well formatted and easy to read and understand.
 
-4. Create a subfolder named "Assignment-01" in your GitHub repository (WANG-690-FALL-2020) and upload the two files to the subfolder.
+4. Provide good comments/documentations in both the Python script (use comments) and the Jupyter Notebook (use Markdown and comments).
 
-5. Copy your GitHub repository URL to your assignment submission in Blackboard. No files should be uploaded to the BB.
+5. Your user prompts, use inputs and output displays should be nicely formatted when users run your program.
+
+6. Create a subfolder named "Assignment-01" in your GitHub repository (WANG-690-FALL-2020) and upload the two files to the subfolder.
+
+7. Copy your GitHub repository URL to your assignment submission in Blackboard. No files should be uploaded to the BB.
 
