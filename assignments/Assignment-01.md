@@ -34,5 +34,5 @@ You may need to use:
 
 4. Create a subfolder named "Assignment-01" in your GitHub repository (WANG-690-FALL-2020) and upload the two files to the subfolder.
 
-5. Copy the link to your GitHub repository to your assignment submission in Blackboard. No files should be uploaded to the BB.
+5. Copy your GitHub repository URL to your assignment submission in Blackboard. No files should be uploaded to the BB.
 
