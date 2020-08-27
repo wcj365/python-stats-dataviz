@@ -31,7 +31,10 @@ You may need to use:
 
 3. Your source code should be well formatted and easy to read and understand.
 
-4. Provide good comments/documentations in both the Python script (use comments) and the Jupyter Notebook (use Markdown and comments).
+4. Provide good comments/documentations:
+
+    - use comments in the Python script.
+    - Use both Markdown and comments in the Jupyter Notebook.
 
 5. Your user prompts, use inputs and output displays should be nicely formatted when users run your program.
 
