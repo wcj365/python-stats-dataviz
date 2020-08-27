@@ -26,15 +26,14 @@ You may need to use:
     - int() function
 
 2. Implement the solution in the following two different formats:
-    - A Python script (.py)
     - A Jupyter Notebook (.ipynb)
+    - A Python script (.py)
 
 3. Your source code should be well formatted and easy to read and understand.
 
 4. Provide good comments/documentations:
-
-    - use comments in the Python script.
     - Use both Markdown and comments in the Jupyter Notebook.
+    - Use comments in the Python script.
 
 5. Your user prompts, use inputs and output displays should be nicely formatted when users run your program.
 
