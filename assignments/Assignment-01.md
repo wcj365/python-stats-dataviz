@@ -19,6 +19,7 @@ Note:
 1. Use the basic Python concepts and methods. 
 Special Python libraries such as statistics, scipy, or numpy are not allowed. 
 You may need to use: 
+
     - loops (finite and/or infinite loop)
     - break/continue
     - try/except
@@ -26,8 +27,8 @@ You may need to use:
     - int() function
 
 2. Implement the solution in the following two different formats:
-- A Python script (.py)
-- A Jupyter Notebook (.ipynb)
+    - A Python script (.py)
+    - A Jupyter Notebook (.ipynb)
 
 3. Provide good comments/documentations in both the Python script (use comments) and the Jupyter Notebook (use Markdown and comments).
 
