@@ -13,9 +13,6 @@ Calculate the following statistics from the 10 integers entered:
 5. Variance
 6. Standard Deviation
 
-Make sure:
-
-
 **Note:**
 
 1. Use the basic Python concepts and methods. 
