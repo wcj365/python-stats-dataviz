@@ -14,7 +14,7 @@ Calculate the following statistics from the 10 integers entered:
 6. Standard Deviation
 
 Make sure:
-- your source code is well formatted and easily to read and understand.
+- your source code is well formatted and easy to read and understand.
 - Your runtime display - user prompts, use inout inputs and output displays are nicely formatted.
 
 **Note:**
