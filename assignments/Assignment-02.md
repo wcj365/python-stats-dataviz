@@ -1,4 +1,4 @@
-## Assignment 01
+## Assignment 02
 
 Prompts a user to enter 10 integers.
 If the user enters anything other than integers, remind her that only integers are allowed and let her retry.
