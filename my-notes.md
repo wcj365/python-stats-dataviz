@@ -17,7 +17,7 @@
 - Rules for assignment submission
     - Two days grace period after the due day
     - Lose half of the total points after the grace period 
-    - Exception: Communicate prior to the original due day with legitimate reseasons. 
+    - Exception: Communicate prior to due day with legitimate reasons. 
 - Python environments
     - Show the free env list
     - pythonanywhere.com
@@ -29,3 +29,4 @@
     - Inputs/outputs
     - Functions
 - Assignment #2
+- Individual Projects
