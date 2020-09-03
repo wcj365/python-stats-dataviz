@@ -1,4 +1,6 @@
 # Notes For Session #2
+> **Remember to record the session**
+> **Remember to pause during the break**
 - Brief self-introduction of the students who did not get a chance to speak.
 - Assignment 01 Q & A and the course in general
     - Text book: SECOND edition
