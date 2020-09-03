@@ -4,7 +4,7 @@
     - Text book: SECOND edition
     - Students in this course have different level of experience in Python. 
         - I will do my best to accommodate everyone
-        - Students also should accommodate and help each other 
+        - Students also should help each other 
 - Tips 
     - Python is case-sensitive
     - Keep four spaces for indeentation
