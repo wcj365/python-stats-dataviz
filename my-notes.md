@@ -1,7 +1,10 @@
 # Notes For Session #2
 - Brief self-introduction of the students who did not get a chance to speak.
 - Assignment 01 Q & A and the course in general
-    - Text book: SECOND edition 
+    - Text book: SECOND edition
+    - Students in this course have different level of experience in Python. 
+        - I will do my best to accommodate everyone
+        - Students also should accommodate and help each other 
 - Tips 
     - Python is case-sensitive
     - Keep four spaces for indeentation
