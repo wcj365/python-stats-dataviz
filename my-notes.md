@@ -38,7 +38,8 @@ This is a common issue related to absolute path vs relative path. also need to k
     - Google Colab
 - Python Fundamentals 
     - Show the Python summary first 
-      Data types
+    - Data types
+    - Control flows
     - Inputs/outputs
     - Functions
 - Assignment #2
