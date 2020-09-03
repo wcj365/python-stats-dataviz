@@ -35,6 +35,7 @@ This is a common issue related to absolute path vs relative path. also need to k
     - In Jupyter notebook, when you are stuck (for instance, in a infinite loop), shut down the kernel and restart it.
     - In Python interactive shell, type "exit()" or "quit()" to get out. Don't forget the parenthesis.
     - When running a Python script, you are stuck (for instance, in a infinite loop), type CTRL + C.
+    - Be aware of your current directory and where your files are.
     - Dont' try to rember the syntax. You can alway Google the answer. 
 - Lay out rules for assignment submission
     - Two days grace period after the due day
