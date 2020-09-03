@@ -15,7 +15,6 @@ Envvironment\Feature  | Linux Shell|  Markdown |   SQL |  Python Shell |  Jupyte
 
  
 Honorable Mentions:
-- kesci.com (China)
 - paperspace.com (VM not availalble most time and too slow)
 - GitLab.com (GitHub alternative)
 - BitBucket.com (GitHub alternative)
