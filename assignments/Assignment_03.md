@@ -21,7 +21,7 @@ Print them in a 10 by 10 matrix neatly arranged with surrounding asterisks (*):
     - Jupyter notebook file
     - Python script (.py)
 - Upload both files to your GitHub repository
-- submit the link of your GitHub repo to BB.
+- Submit the link of your GitHub repo to BB.
 
 ## Hints:
 - You can use Python standard library random to generate one random number at a time or you can use NumPy random library to generate 100 random number altogether in one shot.
