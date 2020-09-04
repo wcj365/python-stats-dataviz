@@ -4,7 +4,7 @@ Find an issue that you are passionate about or are interested in as the topic fo
 
 Make sure there are publicly available data about this issue to perform exploratory analysis.
 
-The analysis should include descriptive statistics and data visualization, and optionally statistical inference.
+The analysis should include descriptive statistics, data visualization, and optionally statistical inference.
 
 ## Deliverable #1 - Project Proposal in Markdown format
 
@@ -30,25 +30,26 @@ You will perform descriptive analytics. Display number of observations (rows), v
 
 You may produce some simple plots. This will help you get a feel of your data and inform your next step of analysis.
 
-You should submit a Jupyter Notebook with documentations, comments, code, and output.
+You should submit a Jupyter Notebook with documentations using Markdown (in Markdown cells), Python comments (in code cells), code, and output (plots, charts).
 
-The project proposal will no longer be needed. Its content should be incorporated in the Jupyter notebook.
+The project proposal will no longer be needed. Part of its content should be incorporated in the Jupyter notebook.
 
 Special instructions:
 
-1. Please format the Jupyter Notebook file with documentations, comments, code, and output neatly and nicely.
-2. The file must be self-explanatory and can stand alone so that its readers will be able to understand the project without having to read other documents or ask you for clarification.
+1. Please format the Jupyter Notebook file neatly and nicely for readability. Treat it as a research paper.
+2. The file must be self-explanatory and can stand alone so the readers understand the project without having to read other documents or ask you for clarification.
 3. Use markdown cell for large block of texts such as background, data sources, list of elements and their meanings. 
-4. In a code cell, use comments above a line of code or to the right of a line of code to annotate/comment the code
+4. In a code cell, use comments above a line of code or to the right of a line of code to annotate/comment the code only necessary.
 5. Limit the length of outputs. For example, don't output more data than necessary. Use head/tail/sample on dataframe to limit the number of rows displayed; 
-6. Structure your notebook with headings including sequence numbers and titles similar to a paper.
-7. Don't do complicated techniques, keep it simple and focus on the clarity of concepts and the style of communications.
-8. This is a proof-of-concept deliverable which helps you practice data science and its delivery and quality of communication.  You are graded less on the substance and more on the style of the notebook. 
-So, Keep It Simple and Sweet (KISS).
+6. Structure your notebook with headings including sequence numbers and section titles similar to a paper.
+7. Don't do complicated techniques or too many techniques, keep it simple and focus on the clarity of concepts and the style of communications. 
+8. This is a proof-of-concept deliverable which helps you practice data science. You are graded both on the substance and the style. 
 9. On the substance: focus on data preparation and data visualization (make sure the plots are large enough). Statistical inference is optional.  
 10. Don't boil the ocean. The issue you are looking into may be large, but you will only focus on one aspect of it and not try to solve the big problem.
 
 ## Deliberable #3 - Final Jupyter Notebook
+You will have a separate GitHub repository to host your final project including the Jupyter notebook, data, original propopsal. 
+You will be proud to show this to your friends, colleagues, managers, recruiters, hiring managers, or any stakeholders. 
 
 
 
