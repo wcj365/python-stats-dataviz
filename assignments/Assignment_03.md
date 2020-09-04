@@ -2,7 +2,7 @@
 ## Problem
 Write a program that generates 100 random integers between 0 and 9. 
 Print them in a 10 by 10 matrix neatly arranged with surrounding asterisks (*):
-
+```
 ***********************
 * 5 1 5 6 2 7 8 6 4 2 *
 * 2 3 7 0 6 9 2 4 2 8 *
@@ -15,7 +15,7 @@ Print them in a 10 by 10 matrix neatly arranged with surrounding asterisks (*):
 * 6 4 7 9 9 3 8 2 6 1 *
 * 9 0 6 4 0 1 0 6 9 9 *
 ***********************
-
+```
 ## Requirements:
 - You should program and test the solution in both:
     - Jupyter notebook file
