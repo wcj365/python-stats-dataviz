@@ -37,7 +37,7 @@ You may need to use:
 
 5. Your user prompts, use inputs and output displays should be nicely formatted when users run your program.
 
-6. Create a subfolder named "Assignment-01" in your GitHub repository (WANG-690-FALL-2020) and upload the two files to the subfolder.
+6. Create a subfolder named "Assignment-02" in your GitHub repository and upload the two files to the subfolder.
 
 7. Copy your GitHub repository URL to your assignment submission in Blackboard. No files should be uploaded to the BB.
 
