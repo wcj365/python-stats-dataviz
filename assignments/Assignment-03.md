@@ -17,10 +17,8 @@ Print them in a 10 by 10 matrix neatly arranged with surrounding asterisks (*):
 ***********************
 ```
 ## The Requirements:
-- You should program and test the solution in both:
-    - Jupyter notebook file
-    - Python script (.py)
-- Upload both files to your GitHub repository
+- You should program and test the solution in Jupyter notebook:
+- USave/upload the notebook file to your GitHub repository
 - Submit the link of your GitHub repo to BB.
 
 ## Hints:
