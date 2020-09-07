@@ -60,5 +60,10 @@
 - "given two solutions, only the simpler one is correct." 
 
 # Session 3 Prep Notes
-- Talk about coding standards and how to structure Jupyter notebook files.
+- Talk about coding standards and how to structure Jupyter notebook files for readability.
 - In class exercise: Copy the user names of this class from BB and to extract out first name, last name, and middle name.
+- In class exercise: Practice input/output and data cleansing
+    - copy data from https://www.genealogybranches.com/censuscosts.html to a text file
+    - read the text file
+    - read line by line and clease the data elements
+    - Output the cleansed data to a file using CSV format
