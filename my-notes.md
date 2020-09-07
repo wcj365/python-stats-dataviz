@@ -58,3 +58,7 @@
 - Incrementally add more capabilities. 
 - Refine and restructure as you go (In Software Engineering, it is call "refactor"), always strive to simplify.
 - "given two solutions, only the simpler one is correct." 
+
+# Session 3 Prep Notes
+- Talk about coding standards and how to structure Jupyter notebook files.
+- In class exercise: Copy the user names of this class from BB and to extract out first name, last name, and middle name.
