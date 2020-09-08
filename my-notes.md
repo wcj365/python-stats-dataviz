@@ -61,6 +61,8 @@
 
 # Session 3 Prep Notes
 - Talk about coding standards and how to structure Jupyter notebook files for readability.
+    - Don't put all your code in one cell - break them up in several logical parts and place them in different cells
+    - Indent only necessary. 
 - In class exercise: Copy the user names of this class from BB and to extract out first name, last name, and middle name.
 - In class exercise: Practice input/output and data cleansing
     - copy data from https://www.genealogybranches.com/censuscosts.html to a text file
