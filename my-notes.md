@@ -69,7 +69,7 @@
     - Pay attention to readability/maintainability/reusability
     - Pay attention to usability (user experience, user-centered design, human-factor)
 - Example
-```
+```python
 mport math 
 num_list = []
 
