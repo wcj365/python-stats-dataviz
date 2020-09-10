@@ -23,8 +23,6 @@ Note:
 - RMOTR is the company behind notebooks.ai. 
 - It provides Python for Data Science training. 
 - Its website: https://rmotr.com/
-- This is a 4-hour trainning video "Beginner's Python for Data Science"
-    - https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=emb_title&fbclid=IwAR0qJPcqezRICXAx1TAR28Ca5hrw_H9HkMOzyUWPFhyer4G2Lxxs4YdwYIY
 - **Unfortunately, notebooks.ai will be down starting Oct 1 2020. The remedy is the combination of the following:**
     - Google Colab (Jupyter Notebook)
     - pythonanywhere.com (Linux shell to run Python scripts)
