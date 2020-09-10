@@ -91,6 +91,25 @@ for num in num_list:
 
 average = total/len(num_list)
 ```
+- Example 2
+```python
+
+import math
+try:
+    int_list=[]
+    for i in range(1,11):
+        inte=int(input())
+        int_list.append(inte)
+    print("Minimum of integers:",min(int_list))
+    print("Maximum of integers:",max(int_list))
+    print("Range of integers:",min(int_list),"-",max(int_list))
+    print("Mean of integers:",(sum(int_list)/10))
+    print("Varience of integers:",sum((i - (sum(int_list)/10)) ** 2 for i in int_list) / len(int_list))
+    print("Standard deviation of integers:",(sum((i - (sum(int_list)/10)) ** 2 for i in int_list) / len(int_list))**0.5)
+        
+except:
+    print("Please enter integers only")
+```
 
 - The most important programming skill is looping. 
     - Most useful mechanism for looping is through collections.
@@ -112,4 +131,3 @@ average = total/len(num_list)
     - read line by line and clease the data elements
     - Output the cleansed data to a file using CSV format
 - Talk about assignment #3
-- 
