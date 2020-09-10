@@ -109,6 +109,8 @@ All Six steps must be guided by domain knowledge, principles, and purposes.
 - [AP Statistics Tutorial](https://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
 - [Practice Python](https://www.practicepython.org/)
 - [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
+- This is a 4-hour trainning video "Beginner's Python for Data Science"
+    - https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=emb_title&fbclid=IwAR0qJPcqezRICXAx1TAR28Ca5hrw_H9HkMOzyUWPFhyer4G2Lxxs4YdwYIY
 - [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
 - [A Gentle Visual Intro to Data Analysis in Python Using Pandas](http://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
 - [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
