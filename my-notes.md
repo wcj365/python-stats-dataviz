@@ -60,14 +60,32 @@
 - "given two solutions, only the simpler one is correct." 
 
 # Session 3 Prep Notes
+- Assignment #2 
+    - Prefer Google Colab - The button on top of a Jupyter notebook is very convenient
+    - How to create a new folder (tricky)
 - Talk about coding standards and how to structure Jupyter notebook files for readability.
     - Don't put all your code in one cell - break them up in several logical parts and place them in different cells
     - Indent only necessary. 
     - Pay attention to readability/maintainability/reusability
     - Pay attention to usability (user experience, user-centered design, human-factor)
+- The most important programming skill is looping. 
+    - Most useful mechanism for looping is through collections.
+        - range()
+        - List
+- The most used functions are string manipulation functoins in Data Analysis
+    - strip(), lstrip(), rstrip()
+    - replace()
+    - find()
+    - startswith()/endswith()
+- Functions
+    - User defined
+    - Anonymous/lambda
+- File Input/Output
 - In class exercise: Copy the user names of this class from BB and to extract out first name, last name, and middle name.
 - In class exercise: Practice input/output and data cleansing
     - copy data from https://www.genealogybranches.com/censuscosts.html to a text file
     - read the text file
     - read line by line and clease the data elements
     - Output the cleansed data to a file using CSV format
+- Talk about assignment #3
+- 
