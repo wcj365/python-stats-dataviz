@@ -70,7 +70,7 @@
     - Pay attention to usability (user experience, user-centered design, human-factor)
 - Example
 ```python
-mport math 
+import math 
 num_list = []
 
 while len(num_list) < 10:
