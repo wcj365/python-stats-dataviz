@@ -94,6 +94,7 @@ for num in num_list:
 
 average = total/len(num_list)
 ```
+
 - Example 2
 ```python
 
