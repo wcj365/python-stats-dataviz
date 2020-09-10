@@ -62,6 +62,7 @@
 # Session 3 Prep Notes
 - Assignment #2 
     - A few turned in homework but the code did not work
+    - Interactive tutorials and videos online. Please take advantage of them and catch up soon. Time is running out.
     - Make sure you notebook include results including error corrections 
     - Prefer Google Colab - The button on top of a Jupyter notebook is very convenient
     - How to create a new folder (tricky)
