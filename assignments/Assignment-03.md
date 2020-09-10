@@ -57,6 +57,21 @@ Write a program that generates 100 random integers between 0 and 9.
 * 9 0 6 4 0 1 0 6 9 9 *
 ***********************
 ```
+5. Optional (challenging): Calculate and Print the total of each row and column like the following:
+```
+6  8  0  2  3  4  2  2  4  4  * 35 
+3  7  5  8  9  7  4  8  6  0  * 57 
+4  7  7  4  3  8  2  1  7  0  * 43 
+7  8  1  3  0  8  4  7  9  2  * 49 
+0  0  2  4  5  6  6  7  1  4  * 35 
+3  7  0  0  7  3  3  2  1  6  * 32 
+2  5  6  6  5  6  5  5  4  7  * 51 
+9  2  7  5  5  9  2  4  7  9  * 59 
+0  0  4  7  6  3  9  6  6  7  * 48 
+0  1  6  5  2  7  4  1  6  4  * 36 
+*  *  *  *  *  *  *  *  *  *  
+34 45 38 44 45 61 41 43 51 43 
+```
 ## The Requirements:
 - You should program and test the solution in Jupyter notebook:
 - Save/upload the notebook file to your GitHub repository
