@@ -68,6 +68,30 @@
     - Indent only necessary. 
     - Pay attention to readability/maintainability/reusability
     - Pay attention to usability (user experience, user-centered design, human-factor)
+- Example
+```
+mport math 
+num_list = []
+
+while len(num_list) < 10:
+
+    num = input(f"\nplease enter an integer ({len(num_list) + 1} of 10): ")
+
+    try:
+        num = int(num)
+        num_list.append(num)
+    except:
+        print("\nYou have entered a non-integer. Please try again.")
+
+    print("\n", num_list)
+
+    total = 0
+for num in num_list:
+    total += num
+
+average = total/len(num_list)
+```
+
 - The most important programming skill is looping. 
     - Most useful mechanism for looping is through collections.
         - range()
