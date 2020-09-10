@@ -61,6 +61,8 @@
 
 # Session 3 Prep Notes
 - Assignment #2 
+    - A few turned in homework but the code did not work
+    - Make sure you notebook include results including error corrections 
     - Prefer Google Colab - The button on top of a Jupyter notebook is very convenient
     - How to create a new folder (tricky)
 - Talk about coding standards and how to structure Jupyter notebook files for readability.
