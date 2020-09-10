@@ -106,6 +106,7 @@ All Six steps must be guided by domain knowledge, principles, and purposes.
 - [Interactive Python Tutorial](http://littlecolumns.com/learn/python/)
 - [Practical Data Science for Journalists and Everyone Else](https://investigate.ai/)
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- [Github Flavored Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [AP Statistics Tutorial](https://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
 - [Practice Python](https://www.practicepython.org/)
 - [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
