@@ -79,11 +79,25 @@ Write a program that generates 100 random integers between 0 and 9.
 
 ## Hints:
 - You can use Python standard library random to generate one random number at a time 
-- Alternatively you can use NumPy random library to generate 10 numbers at a time or 100 random number altogether in one shot.
+- Alternatively but not recommended: you can use NumPy random library to generate 10 numbers at a time or 100 random number altogether in one shot.
 - You are likely to use nested loop - a loop within in another loop since you are dealing with a 10 x 10 matrix.
 - You will use modular operator (%) to determine if an integer is an odd number or an even number.
 - Use the "end=" option of the print() function to avoid a new line after the print and also to add additional spaces. 
     - for example, print(9, end="   ") will print 9 followed by three spaces and not starting a new line.
 - Think through the logic. Try simple things first. Don't make it too complicated. You only need a few lines of code.
 
+## Additional Guidance
+1. Please don't use NumPy. Use the standard random library instead. 
+2. Generate one row of 10 number using for loop. 
+3. Generate 10 rows using another for loop.
+4. Don't use print(a_list) function which displays unwanted brackets "[" and "]". 
+5. Print one number at a time so that you have full control of what to print and how to print (adding spaces, summation, and other simbols). 
+6. Experiment easy things:
+    - For example, use random library to generate 10 numbers and print them one at a time in a for loop.
+    - If it prints each number in a separate line, find a way to print them all in one line. 
+    - If the numbers are next to each other without spaces, try to insert spaces (one or many) in between.
+    - Try to print odd number using "@".
+    - Try to add the 10 numbers to get a total and print the 10 numbers followed by "*" and the total.
+    - After you can do all these simple things for 10 numbers, repeat this 10 times using for loop.
+    - If you are having problem, email me with questions and/or set an appointment with one of the two tutors.
 
