@@ -146,7 +146,7 @@ for x in range(0, 100):
     numbers_list.append(random.randint(0,9))
     
 counter = 0
-for y in numbers_list:      # use only one loop instead of nested loop
+for y in numbers_list:      # Jay Comment: use a single loop instead of nested loops.
     print(str(y), end=' ')
     counter += 1
     if counter == 10:
@@ -161,5 +161,5 @@ import numpy as np
 A = np.random.randint(10, size=(10, 10))
 
 for row in A:
-    print(" ".join(map(str,row)))
+    print(" ".join(map(str,row)))   # Jay comment: use advanced map() function.
 ```
