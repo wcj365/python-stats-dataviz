@@ -138,7 +138,8 @@ except:
 
 ## Prep note for Session 4
 - Many solutions to the assignment 3
-### Solution example 1
+### Solution example 1 - Using a single loop
+https://github.com/steinruck/WANG-690-FALL-2020/blob/master/Assignment_03/Exercise_03.ipynb
 ```python
 numbers_list = []
 for x in range(0, 100):
@@ -152,7 +153,8 @@ for y in numbers_list:      # use only one loop instead of nested loop
         counter = 0
         print()
 ```
-### Solution example 2
+### Solution example 2 - the lean and mean (least SLOC)
+https://github.com/YM53858/DATA-690-WANG/blob/master/Assignment-03/Assignment-03.ipynb
 ```python
 import numpy as np
 
