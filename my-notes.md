@@ -163,3 +163,20 @@ A = np.random.randint(10, size=(10, 10))
 for row in A:
     print(" ".join(map(str,row)))   # Jay comment: use advanced map() function.
 ```
+
+### Solution example 3 - use List Comprehension
+```python
+m = []  # create an empty list for 10 lines.
+for k in range(10): # 10 lines.
+        #m.append(a) # move to the final line.
+    a = [] # creat an empty list for 1 line. 
+    for i in range(10): # 10 elements in onw line.
+        j = random.randrange(10) 
+        a.append(j) 
+    print(*a)
+    m.append(a) #form final 10*10 matrix.
+
+for i in m: # the indelted for loop inside the description of element. 
+    n = ["@" if x%2 else x for x in i]
+    print(*n, sep = ' ')
+```
