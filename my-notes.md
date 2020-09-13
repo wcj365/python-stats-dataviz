@@ -135,3 +135,20 @@ except:
     - read line by line and clease the data elements
     - Output the cleansed data to a file using CSV format
 - Talk about assignment #3
+
+## Prep note for Session 4
+- Many solutions to the assignment 3
+```python
+numbers_list = []
+for x in range(0, 100):
+    numbers_list.append(random.randint(0,9))
+    
+counter = 0
+for y in numbers_list:      # use only one loop instead of nested loop
+    print(str(y), end=' ')
+    counter += 1
+    if counter == 10:
+        counter = 0
+        print()
+```
+
