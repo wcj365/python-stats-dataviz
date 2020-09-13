@@ -114,6 +114,7 @@ All Six steps must be guided by domain knowledge, principles, and purposes.
     - https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=emb_title&fbclid=IwAR0qJPcqezRICXAx1TAR28Ca5hrw_H9HkMOzyUWPFhyer4G2Lxxs4YdwYIY
 - [Free Book: Python Data Science Handbook by Jake Vanderplas](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
+- [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 - [A Gentle Visual Intro to Data Analysis in Python Using Pandas](http://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
 - [Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
 - [Visualizing Pandas' Pivoting and Reshaping Functions](http://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
