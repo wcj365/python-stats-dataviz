@@ -138,6 +138,7 @@ except:
 
 ## Prep note for Session 4
 - Many solutions to the assignment 3
+### Solution example 1
 ```python
 numbers_list = []
 for x in range(0, 100):
@@ -151,4 +152,12 @@ for y in numbers_list:      # use only one loop instead of nested loop
         counter = 0
         print()
 ```
+### Solution example 2
+```python
+import numpy as np
 
+A = np.random.randint(10, size=(10, 10))
+
+for row in A:
+    print(" ".join(map(str,row)))
+```
