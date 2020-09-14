@@ -5,6 +5,8 @@
 - Talk about individual project
 ### Solution example 1 - USe nexted loops
 ```python
+import random
+
 for i in range(1, 11):
   for j in range(1,11):
     num = random.randint(0, 9)
@@ -12,6 +14,16 @@ for i in range(1, 11):
       print(num)
     else:
       print(num, end=" ")
+      
+##################################
+
+import random
+ 
+for i in range(10):          # A for loop for row entries   
+    for j in range(10):      # A for loop for column entries         
+        random_numbers = random.randint(0, 9)         
+        print("",random_numbers,end='')           
+    print("")
 ```
 ### Solution example 2 - Using a single loop
 https://github.com/steinruck/WANG-690-FALL-2020/blob/master/Assignment_03/Exercise_03.ipynb
