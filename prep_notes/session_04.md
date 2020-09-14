@@ -1,5 +1,8 @@
 ## Prep note for Session 4
 - Many solutions to the assignment 3
+- Cover functions and modules
+- Introduce Numpy and Pandas
+- Talk about individual project
 ### Solution example 1 - USe nexted loops
 ```python
 for i in range(1, 11):
