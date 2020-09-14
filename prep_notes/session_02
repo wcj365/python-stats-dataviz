@@ -1,0 +1,34 @@
+# Notes For Session 2
+> - **Remember to record the session**
+> - **Remember to pause during the break**
+- Brief self-introduction of the students who did not get a chance to speak.
+- Assignment 01 Q & A and the course in general
+    - Text book: SECOND edition
+    - Students in this course have different level of experience in Python. 
+        - I will do my best to accommodate everyone
+        - Students also should help each other 
+- Tips 
+    - Python is case-sensitive
+    - Keep four spaces for indeentation
+    - Remember colon ":" at the end of "if", "for", "with open", try/except statement and indent lines that follow
+    - In Jupyter notebook, when you are stuck (for instance, in a infinite loop), shut down the kernel and restart it.
+    - In Python interactive shell, type "exit()" or "quit()" to get out. Don't forget the parenthesis.
+    - When running a Python script, you are stuck (for instance, in a infinite loop), type CTRL + C.
+    - Be aware of your current directory and where your files are.
+    - Dont' try to rember the syntax. You can alway Google the answer. 
+- Rules for assignment submission
+    - Two days grace period after the due day
+    - Lose half of the total points after the grace period 
+    - Exception: Communicate prior to due day with legitimate reasons. 
+- Python environments
+    - Show the free env list
+    - pythonanywhere.com
+    - Google Colab
+- Python Fundamentals 
+    - Show the Python summary first 
+    - Data types
+    - Control flows
+    - Inputs/outputs
+    - Functions
+- Assignment #2
+- Individual Projects
