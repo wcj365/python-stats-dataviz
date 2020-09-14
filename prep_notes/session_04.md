@@ -7,8 +7,8 @@
 ```python
 import random
 
-for i in range(1, 11):
-  for j in range(1,11):
+for i in range(1, 11):           # Jay comment: use range(10) which is equivalence of range(0, 10) and starts with 0.
+  for j in range(1,11):          # Jay comment: use four spaces for indentation instead of two.
     num = random.randint(0, 9)
     if (j == 10):
       print(num)
@@ -21,8 +21,8 @@ import random
  
 for i in range(10):          # A for loop for row entries   
     for j in range(10):      # A for loop for column entries         
-        random_numbers = random.randint(0, 9)         
-        print("",random_numbers,end='')           
+         random_numbers = random.randint(0, 9)     # Jay comment: use four spaces instead of five for indentation.     
+         print("",random_numbers,end='')           
     print("")
 ```
 ### Solution example 2 - Using a single loop
