@@ -1,6 +1,6 @@
 ## Prep note for Session 4
 - Many solutions to the assignment 3
-    - Common issue: **cannot assign "@" to an integeter variable.**
+    - Common issue: **cannot assign "@" to an integer variable.**
 - Cover functions and modules
 - Introduce Numpy and Pandas
 - Talk about individual project
