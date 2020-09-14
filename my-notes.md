@@ -138,7 +138,17 @@ except:
 
 ## Prep note for Session 4
 - Many solutions to the assignment 3
-### Solution example 1 - Using a single loop
+### Solution example 1 - USe nexted loops
+```python
+for i in range(1, 11):
+  for j in range(1,11):
+    num = random.randint(0, 9)
+    if (j == 10):
+      print(num)
+    else:
+      print(num, end=" ")
+```
+### Solution example 2 - Using a single loop
 https://github.com/steinruck/WANG-690-FALL-2020/blob/master/Assignment_03/Exercise_03.ipynb
 ```python
 numbers_list = []
@@ -153,7 +163,7 @@ for y in numbers_list:      # Jay Comment: use a single loop instead of nested l
         counter = 0
         print()
 ```
-### Solution example 2 - the lean and mean (least SLOC)
+### Solution example 3 - the lean and mean (least SLOC)
 https://github.com/YM53858/DATA-690-WANG/blob/master/Assignment-03/Assignment-03.ipynb
 ```python
 import numpy as np
@@ -164,7 +174,7 @@ for row in A:
     print(" ".join(map(str,row)))   # Jay comment: use advanced map() function.
 ```
 
-### Solution example 3 - use List Comprehension
+### Solution example 4 - use List Comprehension
 ```python
 m = []  # create an empty list for 10 lines.
 for k in range(10): # 10 lines.
