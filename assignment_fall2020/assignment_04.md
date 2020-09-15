@@ -8,7 +8,8 @@
 Make sure to add the "0"s to the numbers from which you removed "Billion". Print the cleansed cost_list.  
 7. Extract the **"Average Cost per Person"** column from the data_list and assign them to a list named **"avg_list"**. Remove the "cents", and "$".
 Make sure to divide the numbers in cents by 100 so that all numbers are measured in dollar. Print the cleansed avg_list.
-8. Save the cleansed data to a text file named "cleansed_census_cost.txt" in the same format as the original text file except that the numbers have been cleansed.
+8. Coalesce the cleansed data and save them to a text file named "census_cost.csv". The new file should look similar to the original source file except that it is in 
+comma-delimited format and the numbers have been cleansed. The top two lines from the original file should be retained in the new file.
 
 ### Give yourself a pat on the back. Good job! 
 ### Now you know what data scientists do most of time: Data Cleansing.
