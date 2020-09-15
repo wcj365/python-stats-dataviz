@@ -13,4 +13,4 @@ Make sure to divide the numbers in cents by 100 so that all numbers are measured
 9. Calculate the min, max, mean, and standard deviation of the average cost per person over the years and print it.
 10. Save the cleansed data to a text file named "cleansed_census_cost.txt" in the same format as the original text file except that the numbers have been cleansed.
 
-> **Give yourself a pat on the back. Good job! Now you know what data scientists do most of time: Data Cleansing.**
+## Give yourself a pat on the back. Good job! Now you know what data scientists do most of time: Data Cleansing.
