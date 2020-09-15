@@ -104,14 +104,15 @@ All Six steps must be guided by domain knowledge, principles, and purposes.
 - Curiocity may kill a cat, it sure makes a student.
 ## References
 - [Interactive Python Tutorial](http://littlecolumns.com/learn/python/)
+- [W3C School Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [Practical Data Science for Journalists and Everyone Else](https://investigate.ai/)
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [Github Flavored Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [AP Statistics Tutorial](https://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
 - [Practice Python](https://www.practicepython.org/)
 - [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
-- This is a 4-hour trainning video "Beginner's Python for Data Science"
-    - https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=emb_title&fbclid=IwAR0qJPcqezRICXAx1TAR28Ca5hrw_H9HkMOzyUWPFhyer4G2Lxxs4YdwYIY
+- [4-hour "Beginner's Python for Data Science" Training Video]
+(https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=emb_title&fbclid=IwAR0qJPcqezRICXAx1TAR28Ca5hrw_H9HkMOzyUWPFhyer4G2Lxxs4YdwYIY)
 - [Free Book: Python Data Science Handbook by Jake Vanderplas](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
 - [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
