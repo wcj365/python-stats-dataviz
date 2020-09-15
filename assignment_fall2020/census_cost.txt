@@ -1,3 +1,4 @@
+Source: https://www.genealogybranches.com/censuscosts.html
 Census Year	Total Population	Census Cost	Average Cost Per Person
 1790	3,929,214	$44,377	1.13 cents
 1800	5,308,483	$66,109	1.24 cents
