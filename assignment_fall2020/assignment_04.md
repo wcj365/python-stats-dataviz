@@ -1,5 +1,5 @@
 # Assignment 04
-1. Write code to open the text (assignment_fall2020/census_cost.txt) and read all lines into a list named **"line_list"**. Print line_list.
+1. Write code to open the text [file](assignment_fall2020/census_cost.txt) and read all lines into a list named **"line_list"**. Print line_list.
 2. Extract the first two lines and put them in a different list named "top2_list". You will need to use them later. Print the top2_list.
 3. Put the rest of the lines (containing useful data elements) in a new list named "data_list". Print data_list.
 4. Extract the column **"Census Year"** from data_list and assign them to a list named **year_list**. Remove the "*" from the last element "2010*". Print the cleansed year_list.
