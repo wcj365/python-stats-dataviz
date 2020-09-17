@@ -10,6 +10,7 @@ Make sure to add the "0"s to the numbers from which you removed "Billion". Print
 Make sure to divide the numbers in cents by 100 so that all numbers are measured in dollar. Print the cleansed avg_list.
 8. Coalesce the cleansed data and save them to a text file named "census_cost.csv". The new file should look similar to the original source file except that it is in 
 comma-delimited format and the numbers have been cleansed. The top two lines from the original file should be retained in the new file.
+9. Open the newly-created file "census_cost.csv", read all lines and display them. How does it look?
 
 ### Give yourself a pat on the back. Good job! 
 ### Now you know what data scientists do most of time: Data Cleansing.
