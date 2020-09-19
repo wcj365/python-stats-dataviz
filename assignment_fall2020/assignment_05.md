@@ -31,6 +31,6 @@ will know the meaning of these variables.
     - Find Univ. of Maryland College Park
     - Find and display Loyola College Maryland
     - Find and display Johns Hopskins
-    - Calculate the min, max, average in-state tution of these four institutions
+    - Calculate the min, max, and average in-state tution of the above four institutions.
     
 **Note:** Make sure your notebook file is well organized using Markdown and code comments.
