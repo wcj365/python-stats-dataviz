@@ -25,5 +25,6 @@
     - look at the last 20 colleges
     - Look at a random sample of 20 colleges   
 8. Download and read the data dictionary file - https://collegescorecard.ed.gov/assets/CollegeScorecardDataDictionary.xlsx
-9. Find out the definition of the above 9 variables and document the definitions in the Jupyter Notebook so that the readers 
+9. Find out the definition of the above 9 variables and document the definitions in the Jupyter Notebook so that the readers of your notebook
 will know the meaning of these variables.
+10. Make sure your notebook file is well organized using Markdown and code comments.
