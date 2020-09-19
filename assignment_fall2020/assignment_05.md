@@ -1,7 +1,7 @@
 # Assignment 05
 1. Explore College Scorecard website - https://collegescorecard.ed.gov/ 
 2. Explore College Scorecard Data web page - https://collegescorecard.ed.gov/data/
-3. Download and skim the documentation - https://collegescorecard.ed.gov/assets/FullDataDocumentation.pdf
+3. Download and read the documentation - https://collegescorecard.ed.gov/assets/FullDataDocumentation.pdf
 4. Download the dataset - https://ed-public-download.app.cloud.gov/downloads/CollegeScorecard_Raw_Data.zip (265MB Zip File)
 5. Unzip the file into a folder (there are many files, one for each school year)
 6. Import the 2017-2018 school year file "MERGED2017_18_PP.csv" and explore:   
