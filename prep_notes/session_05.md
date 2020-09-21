@@ -1,0 +1,12 @@
+# Preparation Notes for Session 5
+- Talk about assignment 4
+    - zip function
+    - use of functions 
+- Use Pandas for assignment 4
+    - use of functions
+    - use apply
+- Talk about assignment 05
+    - How to query dataframe to select desired rows?
+    - How to select desired columns 
+    - How to remove wanted columns?
+- Talk about individual project
