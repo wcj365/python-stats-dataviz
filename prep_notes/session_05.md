@@ -1,6 +1,17 @@
 # Preparation Notes for Session 5
 ## Talk about assignment 4
 - zip function
+
+```python
+fileOut = open(fileNameOut, 'w') 
+fileOut.writelines(top2_list) 
+length= len(avg_list)
+for index in range(0,length):
+    line= year_list[index] + "," + pop_list[index] + "," + str(cost_list[index]) + "," + str(avg_list[index]) + "\n"
+    fileOut.writelines(line)
+fileOut.close()
+```
+
 - use of functions 
 - The following works but is not the best practice
 
