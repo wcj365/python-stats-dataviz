@@ -1,6 +1,7 @@
 # Preparation Notes for Session 5
+## Talk about individual project
 ## Talk about assignment 4
-- zip function
+- Coalesciing miultiple lists 
 
 ```python
 fileOut = open(fileNameOut, 'w') 
@@ -36,4 +37,4 @@ with open(fileName, 'rt) as f:
 - How to query dataframe to select desired rows?
 - How to select desired columns 
 - How to remove wanted columns?
-## Talk about individual project
+
