@@ -1,7 +1,7 @@
 # Preparation Notes for Session 5
 ## Talk about individual project
 ## Talk about assignment 4
-- Coalesciing miultiple lists 
+- Coalesciing multiple lists 
 
 ```python
 fileOut = open(fileNameOut, 'w') 
@@ -12,8 +12,6 @@ for index in range(0,length):
     fileOut.writelines(line)
 fileOut.close()
 ```
-
-- use of functions 
 - The following works but is not the best practice
 
 ```python
@@ -29,7 +27,7 @@ with open(fileName, 'rt) as f:
     line_list = file.readlines() 
     print(line_list) 
 ```
-    
+## Use of functions   
 ## Use Pandas for assignment 4
 - use of functions
 - use apply
