@@ -8,7 +8,7 @@ The analysis should include descriptive statistics, data visualization, and opti
 
 ## Deliverable #1 - Project Proposal in Markdown format
 
-Write and submit a research proposal in the Markdown format that answers the following questions:
+Write and submit a research proposal in the **Markdown** format that answers the following questions:
 
 1. What is your issue of interest (provide sufficient background information)?
 2. Why is this issue important to you and/or to others?
