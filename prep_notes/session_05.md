@@ -11,6 +11,12 @@ print(line_list)
 file.close()
 ```
 - The best practice is to use "with open() as" which automatically close the file at the end.
+
+```python
+with open(fileName, 'rt) as f:
+    line_list = file.readlines() 
+    print(line_list) 
+```
     
 ## Use Pandas for assignment 4
 - use of functions
