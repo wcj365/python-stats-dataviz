@@ -8,7 +8,7 @@
 7. Repeat this process for column "Total Population", 	"Census Cost", 	"Average Cost Per Person". (define, test, and apply the function)
 8. After all columns are cleansed, save the clenased dataframe to a file named "census_cost_cleansed.csv" using CSV format.
 9. Use Pandas to read the saved cleansed file and explore to make sure it is clean. 
-10. Update load both the Jupyter notebook and the cleanse data file to GitHub and submit the GitHub link in BlackBoard.
+10. Updload both the Jupyter notebook and the cleanse data file to GitHub and submit the GitHub link in BlackBoard.
 
 > Give yourself a pad on the back. Now you get a feel of how wonderful Pandas is and 
 > how powerful the combination of apply() and user-defined functions are.
