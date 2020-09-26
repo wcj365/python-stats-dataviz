@@ -1,11 +1,11 @@
 # Assignment 04b - Using Pandas
-
+## Instructions
 - In this assignment, we will use Pandas, functions. and apply() to perform data cleansing.
 -  We had walked through the process during last sesssion. The sample solution is here:
 - https://github.com/wcj365/python-stats-dataviz/blob/master/pandas_apply.ipynb
 -  You will try to do it on your own and use this notebook when you get stuck. 
 - Make sure you user Markdown cells to document the process and its steps.
-
+## Requirements
 1. Use Pandas read_html() function to retrive the HTML tables as dataframes from the web page: https://www.genealogybranches.com/censuscosts.html
 2. Find out how many HTML tables Pandas retrieves from the web page. Find out which dataframe contain the data and use it for further processing.
 3. Display and explore the data (rows, columns, etc.) and determine the data quality (bad rows, bad columns, bad elements, null values, etc.)
