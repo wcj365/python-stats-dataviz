@@ -4,3 +4,6 @@ midatl_colleges_data
 ```
 
 This can be simplified by using isin() function.
+```python
+df = df[df_2['STABBR'].isin(['MD','VA','DC','DE','PA'])]
+```
