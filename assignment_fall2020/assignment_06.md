@@ -1,9 +1,10 @@
-# Assignment 04b - Using Pandas
+# Assignment 06 - Using Pandas
 ## Instructions
-- In this assignment, we will use Pandas, functions. and apply() to perform data cleansing.
--  We had walked through the process during last sesssion. The sample solution is here:
+- This assignment is a re-do of assignment 04. We use Pandas and functions instead. It is due Wednesday, Sept 30th.
+- We also get a taste of what web scraping is and use the simple and convenient read_html() from Pandas to extract HTML tables from web pages. 
+- - We had walked through the process during last sesssion. The sample solution is here:
 - https://github.com/wcj365/python-stats-dataviz/blob/master/pandas_apply.ipynb
--  You will try to do it on your own and use this notebook when you get stuck. 
+- You will try to do it on your own and use the sample solution when you get stuck. 
 - Make sure you user Markdown cells to document the process and its steps.
 ## Requirements
 1. Use Pandas read_html() function to retrive the HTML tables as dataframes from the web page: https://www.genealogybranches.com/censuscosts.html
