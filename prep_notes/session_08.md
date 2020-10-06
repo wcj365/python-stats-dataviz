@@ -22,7 +22,9 @@ dirName = 'C:\\Users\\shrut\\Assignment07\CollegeScorecard_Raw_Data';
 # Get the list of all files in directory tree at given path
 listOfFiles = getListOfFiles(dirName)
 ```
-## Don't Write Repetitive Code, Use Loops Instead
+
+## Use forward slash ("/") which is cross-platform (works in Windows, Linux, Mac)
+
 ```python
 os.remove('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\data.yaml')
 os.remove('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\Crosswalks.zip')
@@ -30,6 +32,7 @@ os.remove('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\a.DS_Sto
 os.remove('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\FieldOfStudyData1415_1516_PP.csv')
 os.remove('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\FieldOfStudyData1516_1617_PP.csv')
 ```
+## Don't Write Repetitive Code, Use Loops Instead
 
 ```python
 df1 = pd.read_csv('C:\\Users\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\MERGED1996_97_PP.csv', usecols = ["UNITID", "INSTNM", "STABBR", "REGION", "ADM_RATE", "TUITIONFEE_IN"])
