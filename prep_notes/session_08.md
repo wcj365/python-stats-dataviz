@@ -24,6 +24,14 @@ listOfFiles = getListOfFiles(dirName)
 ```
 ## Don't Write Repetitive Code, Use Loops Instead
 ```python
+os.remove('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\data.yaml')
+os.remove('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\Crosswalks.zip')
+os.remove('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\a.DS_Store')
+os.remove('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\FieldOfStudyData1415_1516_PP.csv')
+os.remove('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\FieldOfStudyData1516_1617_PP.csv')
+```
+
+```python
 df1 = pd.read_csv('C:\\Users\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\MERGED1996_97_PP.csv', usecols = ["UNITID", "INSTNM", "STABBR", "REGION", "ADM_RATE", "TUITIONFEE_IN"])
 ......
 df26 = pd.read_csv('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\MERGED2018_19_PP.csv', usecols = ["UNITID", "INSTNM", "STABBR", "REGION", "ADM_RATE", "TUITIONFEE_IN"])
