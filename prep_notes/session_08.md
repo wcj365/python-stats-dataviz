@@ -22,3 +22,9 @@ dirName = 'C:\\Users\\shrut\\Assignment07\CollegeScorecard_Raw_Data';
 # Get the list of all files in directory tree at given path
 listOfFiles = getListOfFiles(dirName)
 ```
+## Don't Write Repetitive Code, Use Loops Instead
+```python
+df1 = pd.read_csv('C:\\Users\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\MERGED1996_97_PP.csv', usecols = ["UNITID", "INSTNM", "STABBR", "REGION", "ADM_RATE", "TUITIONFEE_IN"])
+......
+df26 = pd.read_csv('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\MERGED2018_19_PP.csv', usecols = ["UNITID", "INSTNM", "STABBR", "REGION", "ADM_RATE", "TUITIONFEE_IN"])
+```
