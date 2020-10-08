@@ -39,3 +39,7 @@ df1 = pd.read_csv('C:\\Users\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\M
 ......
 df26 = pd.read_csv('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\\MERGED2018_19_PP.csv', usecols = ["UNITID", "INSTNM", "STABBR", "REGION", "ADM_RATE", "TUITIONFEE_IN"])
 ```
+## Make the charts larger with figsize option.
+```python
+fig, ax = plt.subplots(figsize=(10,8))
+```
