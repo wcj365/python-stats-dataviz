@@ -63,4 +63,4 @@ print(UMBC_df)
 UMBC_df.plot(x ='Year', y='TUITIONFEE_IN', kind = 'bar')
 ```
 ## Charts need a title and labels for x and y axese.
-![](images/years_messed_up.png)
+![](../images/years_messed_up.png)
