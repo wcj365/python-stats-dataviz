@@ -18,7 +18,7 @@ def getListOfFiles(dirName):
             allFiles.append(fullPath)
                 
     return allFiles
-dirName = 'C:\\Users\\shrut\\Assignment07\CollegeScorecard_Raw_Data';
+dirName = 'C:\\Users\\jaywang\\Assignment07\CollegeScorecard_Raw_Data';
 # Get the list of all files in directory tree at given path
 listOfFiles = getListOfFiles(dirName)
 ```
