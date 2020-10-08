@@ -43,3 +43,20 @@ df26 = pd.read_csv('C:\\Users\\jaywang\\Assignment07\\CollegeScorecard_Raw_Data\
 ```python
 fig, ax = plt.subplots(figsize=(10,8))
 ```
+## Insert Year at appropriate time
+```python
+from os import listdir
+
+filepaths = [f for f in listdir(path) if f.endswith('.csv')]
+df = pd.concat(map(pd.read_csv, filepaths))
+......
+small_df = df[["UNITID", "INSTNM", "STABBR", "REGION", "ADM_RATE", "TUITIONFEE_IN"]]
+......
+select_UMBC = small_df.loc[df['INSTNM'] == 'University of Maryland-Baltimore County']
+
+UMBC_df = select_UMBC
+
+UMBC_df.insert(0, "Year", [1996,1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018], True) 
+
+print(UMBC_df)
+```
