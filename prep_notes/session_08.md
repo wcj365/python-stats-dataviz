@@ -62,3 +62,5 @@ print(UMBC_df)
 ......
 UMBC_df.plot(x ='Year', y='TUITIONFEE_IN', kind = 'bar')
 ```
+
+![](images/years_messed_up.png)
