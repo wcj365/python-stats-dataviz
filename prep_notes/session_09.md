@@ -16,3 +16,6 @@ some of the proposals did not provide enougn details. Questions are too general 
 ### Fundamental Python + Advanced Libraries 
 - You need both. Must practice fundamental Python and use it in your everyday data science work.
 - The notion that I know how to use Pandas and I don't need to know Python is completely wrong. 
+
+### Markdown and Documentation are more important than you can imagine
+Please take it seriously. You are not computer hackers. You are data scientists.
