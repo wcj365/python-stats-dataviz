@@ -12,3 +12,7 @@
 some of the proposals did not provide enougn details. Questions are too general and vague which lead to unspecified/undecided variable selections.
 
 ### Install/uninstall/upgrade packages
+
+### Fundamental Python + Advanced Libraries 
+- You need both. Must practice fundamental Python and use it in your everyday data science work.
+- The notion that I know how to use Pandas and I don't need to know Python is completely wrong. 
