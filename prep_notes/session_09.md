@@ -17,6 +17,8 @@ some of the proposals did not provide enougn details. Questions are too general 
 
 - Data sources Kaggle (many examples to learn from but please be unique about your own research and not copying from others)
 
+- Difference between .md and .ipynb (Markdown file vs Jupyter Notebook)
+
 ### Install/uninstall/upgrade packages
 
 ### Fundamental Python + Advanced Libraries 
