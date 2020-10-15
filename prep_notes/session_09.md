@@ -12,7 +12,9 @@
 
 some of the proposals did not provide enougn details. Questions are too general and vague which lead to unspecified/undecided variable selections.
 
-### Unit of analysis and number of observations
+- Unit of analysis and number of observations
+
+- Data sources Kaggle (many examples to learn from but please be unique about your own research and not copying from others)
 
 ### Install/uninstall/upgrade packages
 
