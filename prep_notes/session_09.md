@@ -2,14 +2,17 @@
 ### Individual Projects
 - Many varieties of topics: 
     - Crime
-    - Healthcare (COVID-19)
+    - Healthcare (COVID-19, insurance)
     - Finance (stock market)
     - Weather (climate changes)
     - Sport (Tennis)
-    - and more
+    - Tourism
+    
 - Proposal quality varies
 
 some of the proposals did not provide enougn details. Questions are too general and vague which lead to unspecified/undecided variable selections.
+
+### Unit of analysis and number of observations
 
 ### Install/uninstall/upgrade packages
 
