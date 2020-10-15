@@ -7,6 +7,7 @@
     - Weather (climate changes)
     - Sport (Tennis)
     - Tourism
+    - Agriculture (health of soil)
     
 - Proposal quality varies
 
