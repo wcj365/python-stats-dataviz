@@ -3,6 +3,7 @@
 Please send follow up emails if I failed to response.
 AND bring it up in the class. I have too many communications to many of you. I miss some of your emails from time to mind. I need reminders.
 ### Individual Projects
+- Timeline changed. 
 - Many varieties of topics: 
     - Crime
     - Healthcare (COVID-19, insurance)
