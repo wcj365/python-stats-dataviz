@@ -3,3 +3,5 @@
 ## Groupby
 ## Melt and Pivot
 ## Style + Substance
+## Exploration + Engineering
+## Python Fundamental + Data Analytics/Visualization/ML
