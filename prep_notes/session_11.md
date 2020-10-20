@@ -3,7 +3,7 @@
 ## 2. Introducing deepnote.com
 - Package install
 - Terminal
-- Create other files than Jupyter Notebook
+- Create other files than Jupyter Notebook (.py, .md, .txt, .csv, etc.)
 - Integration with Github
 ## 3. Advnaced Pandas 
 - Groupby
