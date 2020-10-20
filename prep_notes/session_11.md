@@ -2,7 +2,7 @@
 ## 1. How to get to the class recordings
 ## 2. Introducing deepnote.com
 - Package install
-- Terminal
+- Linux Terminal
 - Create other files than Jupyter Notebook (.py, .md, .txt, .csv, etc.)
 - Integration with Github
 ## 3. Advnaced Pandas 
@@ -13,4 +13,3 @@
 - Exploration + Engineering
 - Style + Substance
 - Python + Pandas
-
