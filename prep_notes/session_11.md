@@ -2,3 +2,4 @@
 ## How to get to class recordings
 ## Groupby
 ## Melt and Pivot
+## Style + Substance
