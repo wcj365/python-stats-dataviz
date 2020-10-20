@@ -3,7 +3,7 @@
 ## 2. Introducing deepnote.com
 ## 3. Groupby
 ## 4. Melt and Pivot
-## 5. My Rumbbling
+## 5. My Rumbblings
 - Exploration + Engineering
 - Style + Substance
 - Python + Pandas
