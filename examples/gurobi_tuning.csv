@@ -1,0 +1,186 @@
+File,Runtime,Runtime2,Parameters
+./run_1/_model_lp.lp,0.006643056869506836,0.023106098175048828,"TimeLimit  600
+,MIPFocus  2
+,TuneResults  1
+"
+./run_1/440010_model_lp.lp,0.06180214881896973,0.05099201202392578,"TimeLimit  600
+,ZeroObjNodes  4000000
+,TuneResults  1
+"
+./run_1/4400100100010_model_lp.lp,1.0033230781555176,0.08826589584350586,"TimeLimit  600
+,Heuristics  0
+,GomoryPasses  15
+,TuneResults  1
+"
+./run_1/4400300200010_model_lp.lp,2.321828842163086,0.2209339141845703,"TimeLimit  600
+,Heuristics  0
+,StartNodeLimit  500
+,TuneResults  1
+"
+./run_10/_model_lp.lp,0.0067369937896728516,0.017223834991455078,"TimeLimit  600
+,PumpPasses  4000000
+,ZeroObjNodes  4000000
+,TuneResults  1
+"
+./run_10/440010_model_lp.lp,0.05921792984008789,0.041867971420288086,"TimeLimit  600
+,MIPFocus  2
+,PumpPasses  4000000
+,TuneResults  1
+"
+./run_10/4400100100010_model_lp.lp,0.997952938079834,0.08810710906982422,"TimeLimit  600
+,Heuristics  0
+,GomoryPasses  15
+,TuneResults  1
+"
+./run_10/4400300200010_model_lp.lp,2.2949209213256836,0.20311594009399414,"TimeLimit  600
+,Heuristics  0
+,MIPFocus  1
+,TuneResults  1
+"
+./run_2/_model_lp.lp,0.006139039993286133,0.026623010635375977,"TimeLimit  600
+,MinRelNodes  0
+,TuneResults  1
+"
+./run_2/440010_model_lp.lp,0.05394697189331055,0.041693925857543945,"TimeLimit  600
+,MIPFocus  2
+,PumpPasses  4000000
+,TuneResults  1
+"
+./run_2/4400100100010_model_lp.lp,0.9340310096740723,0.08717012405395508,"TimeLimit  600
+,Heuristics  0
+,GomoryPasses  15
+,TuneResults  1
+"
+./run_2/4400300200010_model_lp.lp,2.2725110054016113,0.20227789878845215,"TimeLimit  600
+,Heuristics  0
+,GomoryPasses  15
+,TuneResults  1
+"
+./run_3/_model_lp.lp,0.006403923034667969,0.017368078231811523,"TimeLimit  600
+,PumpPasses  4000000
+,ZeroHalfCuts  1
+,TuneResults  1
+"
+./run_3/440010_model_lp.lp,0.05087900161743164,0.0402529239654541,"TimeLimit  600
+,MinRelNodes  4000000
+,GomoryPasses  15
+,TuneResults  1
+"
+./run_3/4400100100010_model_lp.lp,0.940788984298706,0.09105706214904785,"TimeLimit  600
+,Heuristics  0
+,MIPFocus  1
+,TuneResults  1
+"
+./run_3/4400300200010_model_lp.lp,2.29488205909729,0.20884203910827637,"TimeLimit  600
+,Heuristics  0
+,StartNodeLimit  500
+,TuneResults  1
+"
+./run_4/_model_lp.lp,0.0066220760345458984,0.013428926467895508,"TimeLimit  600
+,MinRelNodes  4000000
+,ZeroObjNodes  4000000
+,TuneResults  1
+"
+./run_4/440010_model_lp.lp,0.05136704444885254,0.039354801177978516,"TimeLimit  600
+,MIPFocus  2
+,TuneResults  1
+"
+./run_4/4400100100010_model_lp.lp,0.9766669273376465,0.09297704696655273,"TimeLimit  600
+,Heuristics  0
+,GomoryPasses  15
+,TuneResults  1
+"
+./run_4/4400300200010_model_lp.lp,2.332724094390869,0.20140814781188965,"TimeLimit  600
+,Heuristics  0
+,MIPFocus  1
+,TuneResults  1
+"
+./run_5/_model_lp.lp,0.006234884262084961,0.012415885925292969,"TimeLimit  600
+,GomoryPasses  15
+,TuneResults  1
+"
+./run_5/440010_model_lp.lp,0.043389081954956055,0.03896903991699219,"TimeLimit  600
+,MinRelNodes  0
+,TuneResults  1
+"
+./run_5/4400100100010_model_lp.lp,0.933568000793457,0.08773589134216309,"TimeLimit  600
+,Method  0
+,Heuristics  0
+,TuneResults  1
+"
+./run_5/4400300200010_model_lp.lp,2.3137359619140625,0.2019059658050537,"TimeLimit  600
+,Heuristics  0
+,TuneResults  1
+"
+./run_6/_model_lp.lp,0.00647282600402832,0.016939878463745117,"TimeLimit  600
+,MIPFocus  2
+,TuneResults  1
+"
+./run_6/440010_model_lp.lp,0.04521512985229492,0.03966999053955078,"TimeLimit  600
+,MinRelNodes  20000000
+,TuneResults  1
+"
+./run_6/4400100100010_model_lp.lp,0.9219579696655273,0.08969497680664062,"TimeLimit  600
+,Heuristics  0
+,TuneResults  1
+"
+./run_6/4400300200010_model_lp.lp,2.315106153488159,0.19963812828063965,"TimeLimit  600
+,Heuristics  0
+,MIPFocus  1
+,TuneResults  1
+"
+./run_7/_model_lp.lp,0.006585121154785156,0.013312101364135742,"TimeLimit  600
+,ZeroObjNodes  4000000
+,TuneResults  1
+"
+./run_7/440010_model_lp.lp,0.06392192840576172,0.03924083709716797,"TimeLimit  600
+,MinRelNodes  20000000
+,TuneResults  1
+"
+./run_7/4400100100010_model_lp.lp,0.9314639568328857,0.10102200508117676,"TimeLimit  600
+,Heuristics  0
+,GomoryPasses  15
+,TuneResults  1
+"
+./run_7/4400300200010_model_lp.lp,2.261885166168213,0.20273709297180176,"TimeLimit  600
+,Heuristics  0
+,TuneResults  1
+"
+./run_8/_model_lp.lp,0.006640911102294922,0.015635967254638672,"TimeLimit  600
+,PrePasses  1
+,TuneResults  1
+"
+./run_8/440010_model_lp.lp,0.04305219650268555,0.040441036224365234,"TimeLimit  600
+,MIPFocus  2
+,PumpPasses  4000000
+,TuneResults  1
+"
+./run_8/4400100100010_model_lp.lp,0.995999813079834,0.12060999870300293,"TimeLimit  600
+,Heuristics  0
+,MIPFocus  1
+,TuneResults  1
+"
+./run_8/4400300200010_model_lp.lp,2.269160032272339,0.20354104042053223,"TimeLimit  600
+,Heuristics  0
+,MIPFocus  1
+,TuneResults  1
+"
+./run_9/_model_lp.lp,0.006619930267333984,0.013928890228271484,"TimeLimit  600
+,MinRelNodes  20000000
+,TuneResults  1
+"
+./run_9/440010_model_lp.lp,0.04586601257324219,0.04143881797790527,"TimeLimit  600
+,ZeroObjNodes  4000000
+,Cuts  3
+,TuneResults  1
+"
+./run_9/4400100100010_model_lp.lp,1.2042591571807861,0.08945608139038086,"TimeLimit  600
+,Heuristics  0
+,StartNodeLimit  500
+,TuneResults  1
+"
+./run_9/4400300200010_model_lp.lp,2.3147552013397217,0.2068490982055664,"TimeLimit  600
+,Heuristics  0
+,StartNodeLimit  500
+,TuneResults  1
+"
