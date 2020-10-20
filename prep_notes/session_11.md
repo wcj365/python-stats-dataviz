@@ -1,9 +1,15 @@
 # Prep Notes for Session 11
-## 1. How to get to class recordings
+## 1. How to get to the class recordings
 ## 2. Introducing deepnote.com
-## 3. Groupby
-## 4. Melt and Pivot
-## 5. My Rumbblings
+- Package install
+- Terminal
+- Create other files than Jupyter Notebook
+- Integration with Github
+## 3. Advnaced Pandas 
+- Groupby
+- Melt and Pivot
+- Merge/Join (next session)
+## 4. My Rumbblings
 - Exploration + Engineering
 - Style + Substance
 - Python + Pandas
