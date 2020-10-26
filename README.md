@@ -103,6 +103,7 @@ All Six steps must be guided by domain knowledge, principles, and purposes.
 - The Internet is the biggest fish pond and Google is the best fishing gear. 
 - Curiocity may kill a cat, it sure makes a student.
 ## References
+- [Python for Social Science](https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/index.html)
 - [Interactive Python Tutorial](http://littlecolumns.com/learn/python/)
 - [W3C School Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [Practical Data Science for Journalists and Everyone Else](https://investigate.ai/)
