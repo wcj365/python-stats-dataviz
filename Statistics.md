@@ -5,11 +5,11 @@
 - Parameter
 - Sample
 - Statistics
-### 1.2 Types of Data
-- Categorical/Qualitative
+### 1.2 Two Types of Data
+- Categorical/Qualitative (aka Dimensions)
     - Nominal (not ordered)
     - Ordinal (ordered)
-- Numerical/Quantitative
+- Numerical/Quantitative/ (aka Measures)
     - Discrete (finite counts of values)
     - Continuous (infinite counts of values)
         - Interval (add, subtract)
@@ -21,7 +21,12 @@
     - Simple Random Sampling without Replacement (A selected unit is placed back and hence not eligible to be selected again)
 ### 1.4 Sources of Data
 - Primary Data (Collected first-hand by the researchers)
+    - Field study
+    - Survey design
+    - Simulation
 - Secondary Data (collected by other people)
+    - Published by researchers & institutions
+    - Published by government agencies
 ### 1.5 Types of Research
 - Experimental Study
     - Response Variable
@@ -33,11 +38,13 @@
     - Weighted Mean
     - Trimmed Mean
     - Geometric Mean
-- Median
+- Median (midpoint, 50% above it, 50% below it)
 - Mode (most frequent occurrance)
 ### 2.2 Measure of Dispersion/Scale
 - Range (Maximum - Minimum)
-- Variance (The average of the squared differences from the Mean.)
+- Variance (The mean of the squared differences from the mean.)
+    - population vs sample (N vs N-1)
+    - Degree of freedom 
 - Standard Deviation (The squared root of variance)
 - Outliers (unusual observations)
 ### 2.3 Percentiles, Quantiles, and Quartiles
