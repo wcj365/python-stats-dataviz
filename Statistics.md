@@ -1,4 +1,6 @@
 # Outline of Statistics
+## References
+- http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=11701&itemId=1119486416&resourceId=46570
 ## 1. Basics
 ### 1.1 Four Core Concepts
 - Population
