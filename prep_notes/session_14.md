@@ -1,10 +1,14 @@
 ## Prep Notes for Session 14
-### Review Descriptive Statistics
+### Descriptive Statistics
 - Population
 - Sample
+- Centrality
+- Dispersion
 ### Probability 
 - Theoretical Probability
 - Empiricial Probability
+    - Sampling
+    - Random sampling
 - Discrete variable
 - Continuous variable
 ### Foundation of Inferential Statistics
