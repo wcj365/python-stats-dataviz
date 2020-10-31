@@ -39,7 +39,8 @@
     - Delphi
 ## 2. Descriptive Statistics
 ### 2.1 Measure of Centrality/Location
-- Mean (average)
+- Mean
+    - Arithmetic mean (average)
     - Weighted Mean
     - Trimmed Mean
     - Geometric Mean
