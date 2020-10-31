@@ -84,7 +84,7 @@
 - Outliers 
 - Trend, Seasonality,and Temporal Dependence
 #### Types of Visualizations:
-- Box Plots
+- Box Plots (Five number summary statistics)
 - Dot Plots
 - Histograms
 - Line Charts
@@ -94,6 +94,7 @@
 - Multiple Categorical Variable
     - Contigency Table 
     - Stacked Bar Charts
+    - Grouped Bar Charts
 - Multiple Numerical Variables
     - Stacked Dot Plots
     - Stacked Histograms
@@ -126,7 +127,7 @@
 - Uniform Probability Distribution
 - Normal Distributions
     - Standardization
-    - Z Distribution/Score 
+    - Z Distribution/z Score 
 ## 5. Sample Statistics and Sampling Distribution
 ### 5.1 Basics
 - Population Distribution
@@ -134,7 +135,7 @@
 - Sampling Distribution
 ### 5.2 Sample Statistics
 - Sample Mean
-- Sample Variance
+- Sample Variance (degree of freedom)
 - Sample Standard Deviation (degree of freedom)
 - Samele Standard Error
 - *Central Limit Theorem (CLT)*
