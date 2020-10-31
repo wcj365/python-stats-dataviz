@@ -23,7 +23,8 @@
 - Primary Data (Collected first-hand by the researchers)
     - Field study
     - Survey design
-    - Simulation
+    - Experimental design
+    - Simulation & modeling
 - Secondary Data (collected by other people)
     - Published by researchers & institutions
     - Published by government agencies
