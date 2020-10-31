@@ -33,6 +33,10 @@
     - Response Variable
     - Treatments/Control Variables
 - Observational Study
+    - Ethnoggraphy
+    - Interview
+    - Panel interview
+    - Delphi
 ## 2. Descriptive Statistics
 ### 2.1 Measure of Centrality/Location
 - Mean (average)
