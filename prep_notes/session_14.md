@@ -16,6 +16,7 @@ ax_list[1]=tornado_size_decade.plot("Decade")
 ax_list[1].set_title("Size of Tornado")
 ax_list[1].set_ylabel("Miles")
 ```
+![](../images/pandas_subplots.png)
 ### Descriptive Statistics
 - Population & parameters
 - Sample & statistics
