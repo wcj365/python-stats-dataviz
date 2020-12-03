@@ -1,0 +1,4 @@
+# Assignment 10 Alternative
+I would like you to watch the following video on Youtube (about 1 hour 30 minutes long) as an alternative to our Thursday class: https://www.youtube.com/watch?v=iYie42M1ZyU This video discusses the concept of tidy data and how to use Pandas to make data tidy. This is a great refresher of Pandas. You will also learn new things that we have not covered in our class which may help with your individual project.
+The data files and notebooks used in the video are hosted in GitHub: https://github.com/chendaniely/pydatadc_2018-tidy
+It would be more effective if you download the data files from GitHub and create/write/run your own notebooks as you follow along with the speaker. You will write a list of a few interesting and new things you learn from this video and submit it to the BlackBoard as the homework for this week (due 11/25). Wish you all a happy, fun, and relaxed Thanksgiving holiday.
