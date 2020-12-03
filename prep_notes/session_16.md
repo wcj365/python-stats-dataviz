@@ -5,7 +5,7 @@
 - Great effort on mini projects, many of you have done substantial work, some went above and beyond. 
 ## Homework assignment 10 
 ## Warm-up exercise
-- Data transformation/cleansing/wrangling/munging
+- Data Wrangling
 ## New topics
 - Point and interval estimate
 - Hypothesis testing
