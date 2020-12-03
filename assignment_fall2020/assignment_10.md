@@ -20,7 +20,7 @@ https://github.com/chendaniely/pydatadc_2018-tidy
 
 **You must download data files from GitHub prior to playing the video.**
 
-**You must create/write/run your own notebooks as you follow along with the speaker. **
+**You must create/write/run your own notebooks as you follow along with the speaker.**
 
 After you are done, **create a new markdown cell at the end of your notebook and write a list of interesting things you learned from this video**.
 
