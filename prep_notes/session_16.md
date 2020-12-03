@@ -1,4 +1,5 @@
 # Prep Notes for Session 16
+## Course Evaluation
 ## No Class next week - Happy Holiday
 ## Homewrok assignment 9
 - Great effort on mini projects, many of you have done substantial work, some went above and beyond. 
