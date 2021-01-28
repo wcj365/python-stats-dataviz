@@ -13,6 +13,9 @@ Online Class WebEx: http://umbc.webex.com/meet/jaywang
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices.
 ## Textbook
 Python for Data Analysis by Wes McKinny Second Edition
+## Tutorials
+- [W3C School Python Tutorial](https://www.w3schools.com/python/default.asp)
+- [4-hour Beginner's Python for Data Science Training Video](https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=emb_title&fbclid=IwAR0qJPcqezRICXAx1TAR28Ca5hrw_H9HkMOzyUWPFhyer4G2Lxxs4YdwYIY)
 ## Three Ways to Run Python Code and Free Cloud-based Tools
 - Use Interactive Python Shell (Interpreter) 
     - python.org 
