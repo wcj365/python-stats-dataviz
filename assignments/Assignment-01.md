@@ -10,7 +10,7 @@
         - https://www.markdownguide.org/cheat-sheet/
     - Organize your notes to make it easy to read for yourself and others.
 5. Read "Python for Data Analysis" by Wes McKinny Second Edition Chapter 1 (skim) and 2 (read & practice)
-    - Use the project "test" you created last night in notebooks.ai to practice as you read.
+    - Use the project "test" you created last night in deepnote.com to practice as you read.
     - Create a new Jupyter notebook and name it "Practice-01.ipynb".
     - Insert cells, enter and run Python code there as you read the chapter 2.
     - Take notes in the "Course-Notes.md" using Markdown format.
