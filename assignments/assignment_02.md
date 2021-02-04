@@ -27,7 +27,7 @@ You may need to use:
 
 2. Implement the solution in the following two different formats:
     - A Jupyter Notebook (.ipynb)
-    - A Python script (.py)
+    - A Python script (.py) (**This is optional, not required**)
 
 3. Your source code should be well formatted and easy to read and understand.
 
