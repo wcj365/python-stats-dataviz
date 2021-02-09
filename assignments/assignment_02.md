@@ -16,7 +16,7 @@
 **Note:**
 
 1. Use the basic Python concepts and methods. 
-- Python's min() and max() function are not allowed. You need to write code to find the minimum and maximum.
+- Python's min(), max(), list's sort() function are not allowed. You need to write code to find the minimum and maximum.
 - Special Python libraries such as statistics, scipy, or numpy are not allowed. 
 You may need to use: 
     - loops (finite and/or infinite loop)
