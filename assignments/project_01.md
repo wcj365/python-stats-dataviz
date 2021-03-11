@@ -11,7 +11,8 @@ For this project, you have a different role. No programming is required.
 ## Step 1. Visit the World Bank website for information about the World Development Indicators 
 - https://datatopics.worldbank.org/world-development-indicators/
 ## Step 2. Play with the World Development Explorer (WDX) and get familar with its functionalities
-- http://www.worlddev.xyz
+- The WDX main page (the explorer) 
+    - http://www.worlddev.xyz
 - Use this page to understand the definition of each topic and its indicators
     - http://www.worlddev.xyz/indicators
 - Use this page to get familiar with regions and countries 
@@ -28,7 +29,7 @@ For this project, you have a different role. No programming is required.
     -  Your time span must be at least 5 years
     -  Suggestion: **2010 to 2018**
 ## Step 4. Use WDX to explore the topics and indicators of your interests
-- Try to utilize all data visualizations provided by WDX
+- Try to utilize all charts provided by WDX
 - Download the charts that are insightful 
 - Taking notes of your understanding of the charts
     - what does it reveal to you?
