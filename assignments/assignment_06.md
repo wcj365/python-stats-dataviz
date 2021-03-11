@@ -1,7 +1,9 @@
 # Assignment 06 - Using Pandas
 ## Instructions
 - This assignment is a re-do of assignment 04. We use Pandas and functions instead. 
+- This assignment is a simple example of an important and complex process of "web scraping" to collect data.
 - You get to use the simple and convenient read_html() from Pandas to extract **HTML tables** from web pages. 
+    - **NOTES: The function return a list of data frames, one for each table in the HTML page.**
 - We had walked through the process during last sesssion. The sample solution is here:
 - https://github.com/wcj365/python-stats-dataviz/blob/master/pandas_apply.ipynb
 - You will try to do it on your own and use the sample solution when you get stuck. 
