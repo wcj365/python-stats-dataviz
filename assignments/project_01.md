@@ -1,8 +1,8 @@
 # Individual Project Part A
 For this project, you have a different role. No programming is required.
 ## You ARE a
-- Data analysts
-- Business analysts
+- Data analyst
+- Business analyst
 - Social science researcher 
 ## You are NOT a 
 - Data scientist
