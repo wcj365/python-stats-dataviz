@@ -1,5 +1,5 @@
 # Individual Project Part A
-In this part of the project, you have a different role.
+For this project, you have a different role. No programming is required.
 ## You ARE a
 - Data analysts
 - Business analysts
@@ -8,15 +8,15 @@ In this part of the project, you have a different role.
 - Data scientist
 - Python programmer 
 - Software engineer
-## Visit the World Bank website for information about the World Development Indicators 
+## Step 1. Visit the World Bank website for information about the World Development Indicators 
 - https://datatopics.worldbank.org/world-development-indicators/
-## Play with the World Development Explorer (WDX) and get familar with its functionalities
+## Step 2. Play with the World Development Explorer (WDX) and get familar with its functionalities
 - http://www.worlddev.xyz
-## Use this page to understand the definition of each topic and its indicators
+- Use this page to understand the definition of each topic and its indicators
     - http://www.worlddev.xyz/indicators
-## Use this page to get familiar with regions and countries 
-    - http://www.worlddev.xyz/countries
-## Think about your interests 
+- Use this page to get familiar with regions and countries 
+    - http://www.worlddev.xyz/countries    - 
+## Step 3. Think about your interests 
 - Determine What Topics are interesting to you? 
     - There are 22 topics inclding Health, Environment, Education, Energy, etc.
     - For each topic of your interest, explore the vast indicators 
@@ -27,12 +27,12 @@ In this part of the project, you have a different role.
     -  The data span from 1960 to 2018
     -  Your time span must be at least 5 years
     -  Suggestion: **2010 to 2018**
-## Use WDX to explore the topics and indicators of your interests
+## Step 4. Use WDX to explore the topics and indicators of your interests
 - Try to utilize all data visualizations provided by WDX
 - Download the charts that are insightful 
 - Taking notes of your understanding of the charts
     - what does it reveal to you?
-## Write a report using Markdown format to document your effort
+## Step 5. Write a report using Markdown format to document your effort
 - Think of yourself writing a blog that will be published on the web. 
     - For example, http://www.medium.com
 - You should provide a detailed introduction about the project, for example,
@@ -48,7 +48,7 @@ In this part of the project, you have a different role.
 - You will also explore relations between different issues 
     - For example, wealth may impact health, women's education levels may impact their employment.
     - Use scatter plots (2D scatter plot or bubble chart
-## Create a GitHub separate repository for this project
+## Step 6. Create a GitHub separate repository for this project
 - Name the project "world_development_explorer"
 - Create a folder call "charts" and upload the charts there
 - Create a Markdown file called "wdx_analysis.md" for your report
