@@ -1,4 +1,4 @@
-# Individual Project Part A
+# Individual Project #1
 For this project, you have a different role. No programming is required.
 ## You ARE a
 - Data analyst
@@ -31,7 +31,7 @@ For this project, you have a different role. No programming is required.
 ## Step 4. Use WDX to explore the topics and indicators of your interests
 - Try to utilize all charts provided by WDX
 - Download the charts that are insightful 
-- Taking notes of your understanding of the charts
+- Taking note of your understanding of the charts
     - what does it reveal to you?
 ## Step 5. Write a report using Markdown format to document your effort
 - Think of yourself writing a blog that will be published on the web. 
@@ -43,13 +43,13 @@ For this project, you have a different role. No programming is required.
     - Where do you get the data to help answer your questions?  
     - What process/step you use to analyze the situation/issue
 - You will report the findings and your analysis of each issue/question after the introduction
-- Use the charts and provide explanations
+- Use the downloaded charts and provide explanations
 - You compare different countries and show similarities/differences and their implcations
 - You also look at the historic trend to spot any changes
-- You will also explore relations between different issues 
+- You will also explore relations between different topics/indicators 
     - For example, wealth may impact health, women's education levels may impact their employment.
-    - Use scatter plots (2D scatter plot or bubble chart
-## Step 6. Create a GitHub separate repository for this project
+    - Use scatter plots (2D scatter plot and/or bubble chart)
+## Step 6. Create a separate GitHub repository for this project
 - Name the project "world_development_explorer"
 - Create a folder call "charts" and upload the charts there
 - Create a Markdown file called "wdx_analysis.md" for your report
