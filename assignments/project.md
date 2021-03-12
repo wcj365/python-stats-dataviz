@@ -1,5 +1,7 @@
 # Individual Project
 
+![](../images/CDF.png)
+
 Find an issue that you are passionate about or are interested in as the topic for this exploratory data analysis project.
 
 Make sure there are publicly available data about this issue to perform exploratory analysis.
