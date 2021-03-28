@@ -43,12 +43,14 @@ For this part, you wear a different role. **No programming is required**. Analyt
     - Where do you get the data to help answer your questions?  
     - What process/step you use to analyze the situation/issue
 - You will report the findings and your analysis of each issue/question after the introduction
-- Use the downloaded charts and provide explanations
-- You compare different countries and show similarities/differences and their implcations
+- Use the downloaded charts and provide interpretations/explanations/analysis
+- You compare different countries and show similarities/differences and their implcations 
+    - Use Bar charts
 - You also look at the historic trend to spot any changes
+    - Use Line charts
 - You will also explore relations between different topics/indicators 
     - For example, wealth may impact health, women's education levels may impact their employment.
-    - Use scatter plots (2D scatter plot and/or bubble chart)
+    - Use scatter plots (2D scatter and/or bubble chart)
 ## Step 6. Create a separate GitHub repository for this project
 - Name the project "world_development_explorer"
 - Create a folder call "charts" and upload the charts there
