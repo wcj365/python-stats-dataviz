@@ -1,6 +1,6 @@
 # Individual Project Part B
-For this part, are a data scientist and will use Jupyter Notebook to recreate the charts you used in Part A using Plotly.
-You can copy and paste the texts from your Part A into your Jupyter Notebook so that your Notebook will be a self-contained project.
+For this part, you are a data scientist and will use Jupyter Notebook to recreate the charts you used in Part A using Plotly.
+You can copy and paste the texts from your Part A into your Jupyter Notebook and format them so that your Notebook will be a self-contained project.
 
 ## Special instructions
 
