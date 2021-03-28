@@ -36,6 +36,7 @@ For this part, you wear a different role. **No programming is required**. Analyt
 ## Step 5. Write a report using Markdown format to document your effort
 - Think of yourself writing a blog that will be published on the web. 
     - For example, http://www.medium.com
+- You must use Markdown format not Jupyter Notebook format
 - You should provide a detailed introduction about the project, for example,
     - What is it that you are investigating/exploring/analyzing (provide sufficient background information)?
     - Why is it important to you and/or to others?
