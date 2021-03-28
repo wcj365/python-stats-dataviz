@@ -83,24 +83,27 @@ All Six steps must be guided by domain knowledge, principles, and purposes.
 ## Data Visualization - Plots/Charts
 - One Variable
    - Categorical Variable (frequency table)
-       - Bar chart/Pareto Chart (sorted)
+       - Bar chart
+       - Pareto Chart (sorted + accumulated %)
        - Pie Chart (Avoid it when there are two many categories)
    - Numerical Variable (discrete or continuous, frequency distribution)
-       - Boxplot
-       - Histogram
-       - Line Chart
-       - Area Chart
+       - Histogram - distribution 
+       - Boxplot - summary statistics (centrality and dispersion)
+       - Line Chart - trend over time
+       - Area Chart - Trend over time
    - Textual Variable/Data
        - Wordcloud
 - Multiple variables
    - Two categorical variables (contingency table, pivot table)
-       - Stacked Bar Chart
-       - Grouped Bar Chart
-   - Two numerical variables
-       - Scatter Plot
+       - Stacked Bar Chart (one bar on top of the other)
+       - Grouped Bar Chart (one bar next to each other)
+   - Two numerical variables (correlation)
+       - Scatter Plot (2D)
+       - 3D scatter plot
        - Bubble Chart (Scatter plot with varying size of dots based on the third numerical variable)
        - Motion Chart (Interactive scatter plot reflecting the trend on a third time series categorical variable such as quarter, month)
        - Scatter Plot with varying colors and Shapes of dots/marks reflecting additional categorical variables (dimensions)
+       - Line chart with multiple lines differentiated by color
 ## My Pedagogy
 - I put practice above PowerPoint. I don't focus on syntax and mechanics.
 - I share with students how I learn. I show them how to learn on their own so that they become life-long learners without relying on teachers or gurus. 
