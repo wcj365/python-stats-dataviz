@@ -1,5 +1,5 @@
-# Individual Project #1
-For this project, you have a different role. No programming is required.
+# Individual Project Part A
+For this part, you wear a different role. **No programming is required**. Analytical and communications skills are required.
 ## You ARE a
 - Data analyst
 - Business analyst
