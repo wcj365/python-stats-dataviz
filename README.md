@@ -81,29 +81,34 @@ Check out this [paper](https://www.jstatsoft.org/article/view/v059i10) for data 
 All Six steps must be guided by domain knowledge, principles, and purposes. 
 
 ## Data Visualization - Plots/Charts
-- One Variable
-   - Categorical Variable (frequency table)
-       - Bar chart
+- Univariate
+   - Categorical Variable 
+       - Frequency table
+       - Bar chart (x=Categories, y=Count)
        - Pareto Chart (sorted + accumulated %)
-       - Pie Chart (Avoid it when there are two many categories)
-   - Numerical Variable (discrete or continuous, frequency distribution)
-       - Histogram - distribution 
-       - Boxplot - summary statistics (centrality and dispersion)
+       - Pie Chart (Avoid it when there are t0o many categories)
+   - Numerical Variable (discrete or continuous)
+       - Histogram - frequency distribution 
+       - Boxplot - five-number summary statistics (centrality and dispersion)
        - Line Chart - trend over time
        - Area Chart - Trend over time
    - Textual Variable/Data
        - Wordcloud
-- Multiple variables
-   - Two categorical variables (contingency table, pivot table)
+- Multivariate
+   - Two categorical variables 
+       - Contingency table, pivot table 
        - Stacked Bar Chart (one bar on top of the other)
        - Grouped Bar Chart (one bar next to each other)
    - Two numerical variables (correlation)
-       - Scatter Plot (2D)
+       - 2D Scatter Plot
        - 3D scatter plot
        - Bubble Chart (Scatter plot with varying size of dots based on the third numerical variable)
-       - Motion Chart (Interactive scatter plot reflecting the trend on a third time series categorical variable such as quarter, month)
-       - Scatter Plot with varying colors and Shapes of dots/marks reflecting additional categorical variables (dimensions)
+       - Motion Chart (Scatter plot with time frame for playback)
+       - Scatter Plot with varying colors and Shapes of marks reflecting additional categorical variables (dimensions)
        - Line chart with multiple lines differentiated by color
+   - One Numerical and one categorical variable
+       - Bar chart (x=categories of the categorical variable, y=statistics of the numerical variable)
+       - Statistics include mean, min, max, median, ...
 ## My Pedagogy
 - I put practice above PowerPoint. I don't focus on syntax and mechanics.
 - I share with students how I learn. I show them how to learn on their own so that they become life-long learners without relying on teachers or gurus. 
