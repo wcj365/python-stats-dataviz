@@ -16,7 +16,8 @@ https://github.com/chendaniely/pydatadc_2018-tidy
 
 ## Instructions:
 - You must download data files from GitHub prior to playing the video.
-- You must create/write/run your own notebooks as you follow along with the speaker. 
+- You must create/write/run your own notebook as you follow along with the speaker. 
+    - You may download the notebooks from the above GitHub repo and copy/paste cells into yours to save typing time
 - You will pause and work on your notebook and continue as you ride along.
 - After you are done, create a **markdown cell** at the end of your notebook and write **a list of new things** you learned from this video.
 - You will upload your Jupyter notebook file to GitHub and submit the link in BlackBoard. 
