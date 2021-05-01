@@ -7,14 +7,19 @@
 > Passer by: Practice, practice, practice!
 > 
 
-# Statistical Analysis and Data Visualization with Python
-Online Class WebEx: http://umbc.webex.com/meet/jaywang
 
-## Course Summary
-Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices.
-
-## Textbook
-Python for Data Analysis by Wes McKinny **Second Edition**
+## Course Information
+- Summary
+    - Statistical Analysis, Data Visualization, and Python Programming all-in-one with Hands-on Practices.
+- Online Class WebEx
+    - http://umbc.webex.com/meet/jaywang
+- About the instructor
+    - https://wcj365.gitee.io/
+- Textbook 
+    - Python for Data Analysis by Wes McKinny **Second Edition**
+- Development Environment
+    - deepnote.com
+    - Google Colab
 
 ## Tutorials
 - [W3C School Python Tutorial](https://www.w3schools.com/python/default.asp)
@@ -37,8 +42,7 @@ Python for Data Analysis by Wes McKinny **Second Edition**
         - Plus: Acess to Linux terminal to run Python Scripts and Python Webapps  
     - Microsoft Azure Notebook
     - 
-## Practice Environment
-- deepnote.com
+
 - 
 ## Four Levels of Python Code
 https://m.facebook.com/story.php?story_fbid=2596321403939440&id=1815765878661667
