@@ -24,7 +24,7 @@
 ## Tutorials
 - [W3C School Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [4-hour Beginner's Python for Data Science Training Video](https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=emb_title&fbclid=IwAR0qJPcqezRICXAx1TAR28Ca5hrw_H9HkMOzyUWPFhyer4G2Lxxs4YdwYIY)
-- 
+
 ## Three Ways to Run Python Code and Free Cloud-based Tools
 - Use Interactive Python Shell (Interpreter) 
     - python.org 
@@ -36,14 +36,11 @@
 - Use Jupyter Notebooks
     - Google Colab
         - Plus: Seemless integration with GitHub
+    - deepnote.com 
+        - Plus: Acess to Linux terminal to run Python Scripts  
     - Kaggle.com
         - Plus: Data science community with public datasets and notebooks for learning 
-    - deepnote.com 
-        - Plus: Acess to Linux terminal to run Python Scripts and Python Webapps  
-    - Microsoft Azure Notebook
-    - 
 
-- 
 ## Four Levels of Python Code
 https://m.facebook.com/story.php?story_fbid=2596321403939440&id=1815765878661667
 1. Syntax (most basic programming requirements)
@@ -70,7 +67,9 @@ The one thing you have absolute control is **the code you write**. Make sure don
 
 [Wikipedia's Definition of Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code): 
 
-> *"Spaghetti code is a pejorative phrase for unstructured and difficult-to-maintain source code. Spaghetti code can be caused by several factors, such as volatile project requirements, lack of programming style rules, and insufficient ability or experience."*
+> *"Spaghetti code is a pejorative phrase for unstructured and difficult-to-maintain source code. 
+> Spaghetti code can be caused by several factors, such as volatile project requirements, 
+> lack of programming style rules, and insufficient ability or experience."*
 
 ## Jupyter Notebooks
 The name Jupyter comes from the fact that it supports writing code in three popular languages:
@@ -121,13 +120,6 @@ All Six steps must be guided by domain knowledge, principles, and purposes.
    - One Numerical and one categorical variable
        - Bar chart (x=categories of the categorical variable, y=statistics of the numerical variable)
        - Statistics include mean, min, max, median, ...
-
-## My Pedagogy
-- I put practice above PowerPoint. I don't focus on syntax and mechanics.
-- I share with students how I learn. I show them how to learn on their own so that they become life-long learners without relying on teachers or gurus. 
-- I offer no fishes nor fishing gears. I show students where and how to find them.
-- The Internet is the biggest fish pond and Google is the best fishing gear. 
-- Curiocity may kill a cat, it sure makes a student.
 
 ## References
 - ["Scipy Lecture Notes](http://scipy-lectures.org/index.html)
