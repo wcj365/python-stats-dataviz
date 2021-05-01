@@ -25,7 +25,7 @@
 - [W3C School Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [4-hour Beginner's Python for Data Science Training Video](https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=emb_title&fbclid=IwAR0qJPcqezRICXAx1TAR28Ca5hrw_H9HkMOzyUWPFhyer4G2Lxxs4YdwYIY)
 
-## Three Ways to Run Python Code on the Cloud 
+## Run Python on the Cloud 
 - Use Interactive Python Shell (Interpreter) 
     - python.org 
     - No registration is required
@@ -57,7 +57,7 @@ https://blog.newrelic.com/engineering/python-programming-styles/
 - Object-oriented
 - Functional
 
-## Four Major Components of a Data Science Project and Your Responsibility
+## Your Responsibility
 - **Written Code** - Solely your responsibility - Make sure it is clean, correct, and commented (3C rule)
 - **Source Data** - Primary data is your responsibity. You have no control over secondary data so be careful in the selection and cleansing.
 - **Existing Libraries** - You have no control on existing libraries/algothorithms so be careful in selecting and using them.
@@ -79,7 +79,7 @@ The name Jupyter comes from the fact that it supports writing code in three popu
 
 Julia and R are popular for statistical analysis and data science. Python is a more generic programming language that happens to be popular in data science as well, though Python is good for all kinds of development, not just data science.
 
-## Data Visualization Six Steps
+## Dataviz Six Steps
 1. Define Problem and Ask Questions
 2. Define Data Source and Elements
 3. Tidy up Data (Normalize "messy" data so that is is "Tidy". )
@@ -91,7 +91,7 @@ Check out this [paper](https://www.jstatsoft.org/article/view/v059i10) for data 
 
 All Six steps must be guided by domain knowledge, principles, and purposes. 
 
-## Data Visualization - Plots/Charts
+## Dataviz - Plots/Charts
 - Univariate
    - Categorical Variable 
        - Frequency table
