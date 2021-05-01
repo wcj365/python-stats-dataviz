@@ -1,11 +1,11 @@
-# DATA 690 
 >
 > A visitor to New York City asked a passerby for 
 > directions to the city's famous classical music venue:
 >
 > Visitor: Excuse me, how do I get to Carnegie Hall?
 >
-> Passerby: Practice, practice, practice!
+> Passer by: Practice, practice, practice!
+> 
 
 # Statistical Analysis and Data Visualization with Python
 Online Class WebEx: http://umbc.webex.com/meet/jaywang
@@ -36,6 +36,7 @@ Python for Data Analysis by Wes McKinny **Second Edition**
     - deepnote.com 
         - Plus: Acess to Linux terminal to run Python Scripts and Python Webapps  
     - Microsoft Azure Notebook
+    - 
 ## Practice Environment
 - deepnote.com
 - 
