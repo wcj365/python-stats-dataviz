@@ -12,7 +12,7 @@
 - Summary
     - Statistical Analysis, Data Visualization, and Python Programming all-in-one with Hands-on Practices.
 - Online Class WebEx
-    - http://umbc.webex.com/meet/jaywang
+    - [http://umbc.webex.com/meet/jaywang](http://umbc.webex.com/meet/jaywang)
 - About the instructor
     - [https://wcj365.gitee.io/](https://wcj365.gitee.io/)
 - Textbook 
