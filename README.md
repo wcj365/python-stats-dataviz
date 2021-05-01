@@ -1,21 +1,25 @@
 # DATA 690 
 >
->    A visitor to New York City asked a passerby for 
->    directions to the city's famous classical music venue:
+> A visitor to New York City asked a passerby for 
+> directions to the city's famous classical music venue:
 >
->    Visitor: Excuse me, how do I get to Carnegie Hall?
+> Visitor: Excuse me, how do I get to Carnegie Hall?
 >
->   Passerby: Practice, practice, practice!
+> Passerby: Practice, practice, practice!
 
 # Statistical Analysis and Data Visualization with Python
 Online Class WebEx: http://umbc.webex.com/meet/jaywang
+
 ## Course Summary
 Statistical Analysis, Data Visualization, and Python Programming All in One Place with Hands-on Practices.
+
 ## Textbook
 Python for Data Analysis by Wes McKinny **Second Edition**
+
 ## Tutorials
 - [W3C School Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [4-hour Beginner's Python for Data Science Training Video](https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=emb_title&fbclid=IwAR0qJPcqezRICXAx1TAR28Ca5hrw_H9HkMOzyUWPFhyer4G2Lxxs4YdwYIY)
+- 
 ## Three Ways to Run Python Code and Free Cloud-based Tools
 - Use Interactive Python Shell (Interpreter) 
     - python.org 
@@ -34,6 +38,7 @@ Python for Data Analysis by Wes McKinny **Second Edition**
     - Microsoft Azure Notebook
 ## Practice Environment
 - deepnote.com
+- 
 ## Four Levels of Python Code
 https://m.facebook.com/story.php?story_fbid=2596321403939440&id=1815765878661667
 1. Syntax (most basic programming requirements)
@@ -49,6 +54,7 @@ https://blog.newrelic.com/engineering/python-programming-styles/
 - Procedural
 - Object-oriented
 - Functional
+- 
 ## Four Major Components of a Data Science Project and Your Responsibility
 - **Written Code** - Solely your responsibility - Make sure it is clean, correct, and commented (3C rule)
 - **Source Data** - Primary data is your responsibity. You have no control over secondary data so be careful in the selection and cleansing.
@@ -68,6 +74,7 @@ The name Jupyter comes from the fact that it supports writing code in three popu
 - **R**
 
 Julia and R are popular for statistical analysis and data science. Python is a more generic programming language that happens to be popular in data science as well, though Python is good for all kinds of development, not just data science.
+
 ## Data Visualization Six Steps
 1. Define Problem and Ask Questions
 2. Define Data Source and Elements
@@ -109,12 +116,14 @@ All Six steps must be guided by domain knowledge, principles, and purposes.
    - One Numerical and one categorical variable
        - Bar chart (x=categories of the categorical variable, y=statistics of the numerical variable)
        - Statistics include mean, min, max, median, ...
+
 ## My Pedagogy
 - I put practice above PowerPoint. I don't focus on syntax and mechanics.
 - I share with students how I learn. I show them how to learn on their own so that they become life-long learners without relying on teachers or gurus. 
 - I offer no fishes nor fishing gears. I show students where and how to find them.
 - The Internet is the biggest fish pond and Google is the best fishing gear. 
 - Curiocity may kill a cat, it sure makes a student.
+
 ## References
 - ["Scipy Lecture Notes](http://scipy-lectures.org/index.html)
 - [Data Analysis and Visualization with Python for Social Scientists](https://datacarpentry.org/python-socialsci/)
