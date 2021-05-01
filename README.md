@@ -25,14 +25,14 @@
 - [W3C School Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [4-hour Beginner's Python for Data Science Training Video](https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=emb_title&fbclid=IwAR0qJPcqezRICXAx1TAR28Ca5hrw_H9HkMOzyUWPFhyer4G2Lxxs4YdwYIY)
 
-## Three Ways to Run Python Code and Free Cloud-based Tools
+## Three Ways to Run Python Code on the Cloud 
 - Use Interactive Python Shell (Interpreter) 
     - python.org 
     - No registration is required
 - Run Python Scripts through Command Line
     - pythonanywhere.com
     - Requires account registration
-    - Need basic Linux familiarity
+    - Need basic Linux knowledge
 - Use Jupyter Notebooks
     - Google Colab
         - Plus: Seemless integration with GitHub
