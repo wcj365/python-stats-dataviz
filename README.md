@@ -14,7 +14,7 @@
 - Online Class WebEx
     - http://umbc.webex.com/meet/jaywang
 - About the instructor
-    - https://wcj365.gitee.io/
+    - [https://wcj365.gitee.io/](https://wcj365.gitee.io/)
 - Textbook 
     - Python for Data Analysis by Wes McKinny **Second Edition**
 - Development Environment
