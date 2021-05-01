@@ -56,7 +56,7 @@ https://blog.newrelic.com/engineering/python-programming-styles/
 - Procedural
 - Object-oriented
 - Functional
-- 
+
 ## Four Major Components of a Data Science Project and Your Responsibility
 - **Written Code** - Solely your responsibility - Make sure it is clean, correct, and commented (3C rule)
 - **Source Data** - Primary data is your responsibity. You have no control over secondary data so be careful in the selection and cleansing.
