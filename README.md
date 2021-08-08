@@ -122,7 +122,8 @@ All Six steps must be guided by domain knowledge, principles, and purposes.
        - Statistics include mean, min, max, median, ...
 
 ## References
-- ["Scipy Lecture Notes](http://scipy-lectures.org/index.html)
+- [learnpython.org](http://learnpython.org)
+- [Scipy Lecture Notes](http://scipy-lectures.org/index.html)
 - [Data Analysis and Visualization with Python for Social Scientists](https://datacarpentry.org/python-socialsci/)
 - [Python for Social Science](https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/index.html)
 - [Interactive Python Tutorial](http://littlecolumns.com/learn/python/)
