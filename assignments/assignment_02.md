@@ -2,7 +2,7 @@
 ## Requirements
 - Prompts a user to enter 10 integers.
 - If the user enters anything other than integers, remind her that only integers are allowed and let her retry.
-    - Note: **You need to detect if use makes a mistake and let the user retry without exiting the program. The previously entered valid inputs should be kept and not lost.**
+    - Note: **You need to detect if the user makes a mistake and let the user retry without exiting the program. The previously entered valid inputs should be kept and not lost.**
 - Don't allow the user to enter more than 10 or less than 10 integers.
 - Display the 10 integers back to the user at the end.
 - Calculate the following statistics from the 10 integers entered and display the results back to the user:
@@ -37,6 +37,8 @@ You may need to use:
 
 5. Your user prompts, use inputs and output displays should be nicely formatted when users run your program.
 
-6. Create a subfolder named "Assignment-02" in your GitHub repository and upload the two files to the subfolder.
+6. Create a subfolder named "assignment_02" in your personal GitHub repository and upload the notebook file to the subfolder.
 
-7. Copy your GitHub repository URL to your assignment submission in Blackboard. No files should be uploaded to the BB.
+7. from the DATA-690-FALL-2021 organization, refresh your repository with contents from your personal account. 
+
+8. Copy the link to your GitHub repository URL (one in DATA-690-FALL-2021) to your assignment submission in Blackboard. No files should be uploaded to the BB.
