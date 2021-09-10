@@ -12,6 +12,8 @@
     4. Mean
     5. Variance
     6. Standard Deviation
+## Reference
+https://www.mathsisfun.com/data/standard-deviation.html
 
 **Note:**
 
