@@ -7,6 +7,7 @@
 > Passer by: Practice, practice, practice!
 > 
 
+HELLO!
 
 ## Course Information
 - Summary
