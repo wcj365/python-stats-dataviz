@@ -7,8 +7,6 @@
 > Passer by: Practice, practice, practice!
 > 
 
-HELLO!
-
 ## Course Information
 - Summary
     - Statistical Analysis, Data Visualization, and Python Programming all-in-one with Hands-on Practices.
