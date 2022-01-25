@@ -13,14 +13,13 @@ HELLO!
 - Summary
     - Statistical Analysis, Data Visualization, and Python Programming all-in-one with Hands-on Practices.
 - Online Class WebEx
-    - [http://umbc.webex.com/meet/jaywang](http://umbc.webex.com/meet/jaywang)
+    - [Class WebEx](http://umbc.webex.com/meet/jaywang)
 - About the instructor
-    - [https://wcj365.gitee.io/](https://wcj365.gitee.io/)
+    - [LinkedIn Profile](https://www.linkedin.com/in/wcj365/)
 - Textbook 
-    - Python for Data Analysis by Wes McKinny **Second Edition**
+    - [Python for Data Analysis by Wes McKinny **Third Edition**](https://wesmckinney.com/book/)
 - Development Environment
-    - deepnote.com
-    - Google Colab
+    - [Google Colab](https://colab.research.google.com/)
 
 ## Tutorials
 - [W3C School Python Tutorial](https://www.w3schools.com/python/default.asp)
