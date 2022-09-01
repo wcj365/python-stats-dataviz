@@ -15,7 +15,7 @@ Session | Date   | Topic                                                        
 10      | Nov 03 | Plotly - Geospatial & Time Series (Choropleth, Line)                | WDX
 11      | Nov 10 | Inferential Statistics - Probability, Normal Dist. LLN, & CLT       | Individual Project Part A Due
 12      | Nov 17 | Inferential Statistics - Point and Interval Estimation              | 
-        | Nov 24 | Thanksgiving - NO CLASS                                             | Happy Holiday
+BREAK   | Nov 24 | Thanksgiving - NO CLASS                                             | Happy Holiday
 13      | Dec 01 | Inferential Statistics - Hypothesis Testing using EZAnalytix.com    | 
 14      | Dec 08 | pythonanywhere.com - bash, Python scripts, pip, venv                |                               | 
 15      | Dec 15 | Last Class - Summary                                                | Hooray! 
