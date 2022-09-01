@@ -1,5 +1,8 @@
 # Assignment 10
 
+Happy Dewali! No Class this Thursday Nov 4th. However, you will have this homework assignment.
+Home work is due by Sunday Nov 7.
+
 ## Watch, Learn, and Practice
 
 Watch the following video on Youtube (about 1 hour 30 minutes long):

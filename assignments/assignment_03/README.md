@@ -42,7 +42,7 @@ Write a program that generates 100 random integers between 0 and 9.
 2 1 6 7 7 8 1 0 0 4 * 36
 ```
 
-4. Optional: Surround the matrix with asterisks (*) like the following:
+4. Surround the matrix with asterisks (*) like the following:
 ```
 ***********************
 * 5 1 5 6 2 7 8 6 4 2 *
@@ -57,7 +57,7 @@ Write a program that generates 100 random integers between 0 and 9.
 * 9 0 6 4 0 1 0 6 9 9 *
 ***********************
 ```
-5. Optional (challenging): Calculate and Print the total of each row and column like the following:
+5. Calculate and Print the total of each row and column like the following:
 ```
 6  8  0  2  3  4  2  2  4  4  * 35 
 3  7  5  8  9  7  4  8  6  0  * 57 
@@ -73,16 +73,15 @@ Write a program that generates 100 random integers between 0 and 9.
 34 45 38 44 45 61 41 43 51 43 
 ```
 ## The Requirements:
-- You should program and test the solution in Jupyter notebook:
-- Save/upload the notebook file to your GitHub repository
+- You should program and test the solution in Jupyter notebook using Google Colab:
+- Save/upload the notebook file to your GitHub repository and fetch upstream
 - Submit the link of your GitHub repo to BB.
 
 ## Hints:
-- You can use Python standard library random to generate one random number at a time 
-- Alternatively but not recommended: you can use NumPy random library to generate 10 numbers at a time or 100 random number altogether in one shot.
+- You can use Python standard library random to generate one random number at a time. 
 - You are likely to use nested loop - a loop within in another loop since you are dealing with a 10 x 10 matrix.
 - You will use modular operator (%) to determine if an integer is an odd number or an even number.
-- Use the "end=" option of the print() function to avoid a new line after the print and also to add additional spaces. 
+- Use the "end=" option of the print() function to avoid a new line and also to add additional spaces. 
     - for example, print(9, end="   ") will print 9 followed by three spaces and not starting a new line.
 - Think through the logic. Try simple things first. Don't make it too complicated. You only need a few lines of code.
 

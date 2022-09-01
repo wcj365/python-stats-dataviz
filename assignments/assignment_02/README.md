@@ -12,7 +12,8 @@
     4. Mean
     5. Variance
     6. Standard Deviation
-## Reference
+
+## References
 https://www.mathsisfun.com/data/standard-deviation.html
 
 **Note:**
@@ -41,6 +42,6 @@ You may need to use:
 
 6. Create a subfolder named "assignment_02" in your personal GitHub repository and upload the notebook file to the subfolder.
 
-7. from the DATA-690-FALL-2021 organization, refresh your repository with contents from your personal account. 
+7. from your folder in the class organization, refresh your repository with contents from your personal account. 
 
-8. Copy the link to your GitHub repository URL (one in DATA-690-FALL-2021) to your assignment submission in Blackboard. No files should be uploaded to the BB.
+8. Copy the link to your GitHub repository in the organization to your assignment submission in Blackboard. No files should be uploaded to the BB.
