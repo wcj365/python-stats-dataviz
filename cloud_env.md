@@ -7,7 +7,7 @@ Envvironment\Feature  | Linux Shell|  Markdown |   SQL |  Python Shell |  Jupyte
 *pythonanywhere.com*  |      X     |           |  X    |    X          |         X($)      |                     |   X   | 
 *notebooks.ai*        |      X     |     X     |       |    X          |         X         |                     |   X   | 
 *Kaggle.com*          |            |     X     |       |               |         X         |                     |       | 
-*Google Colab*        |            |     X     |       |               |         X         |           X         |       | 
+*Google Colab*        |   X($)     |     X     |       |               |         X         |           X         |       | 
 *databricks.com*      |            |     X     |       |               |         X         |           X         |       | 
 *mode.com*            |            |     X     |   X   |               |         X         |                     |       | 
 *glitch.com*          |            |     X     |       |          X    |                   |                     |   X   | 
