@@ -1,6 +1,6 @@
 ## Assignment 02
 ## Requirements
-- Prompts a user to enter 10 integers.
+- Prompt a user to enter 10 integers.
 - If the user enters anything other than integers, remind her that only integers are allowed and let her retry.
     - Note: **You need to detect if the user makes a mistake and let the user retry without exiting the program. The previously entered valid inputs should be kept and not lost.**
 - Don't allow the user to enter more than 10 or less than 10 integers.
