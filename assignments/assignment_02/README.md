@@ -21,8 +21,9 @@ https://www.mathsisfun.com/data/standard-deviation.html
 1. Use the basic Python concepts and methods. 
 - Python's min(), max(), list's sort() function are not allowed. You need to write code to find the minimum and maximum.
 - Special Python libraries such as statistics, scipy, or numpy are not allowed. 
-You may need to use: 
-    - loops (finite and/or infinite loop)
+- You may need to use: 
+    - loop (finite and/or infinite loop)
+    - if/else
     - break/continue
     - try/except
     - input() function 
@@ -32,16 +33,16 @@ You may need to use:
     - A Jupyter Notebook (.ipynb)
     - A Python script (.py) (**This is optional, not required**)
 
-3. Your source code and outputs should be well formatted and easy to read and understand.
+3. Your source code and outputs should be well formatted and easy to read.
 
 4. Provide good code documentation:
     - Use both Markdown and code comments in the Jupyter Notebook.
-    - Use only comments in the Python script.
+    - Use only comments in the Python script. (Python script is optional.)
 
-5. Your user prompts, use inputs and output displays should be nicely formatted when users run your program.
+5. Your user prompts, user inputs and output displays should be nicely formatted with sufficient spaces and line breaks when users run your program.
 
 6. Create a subfolder named "assignment_02" in your personal GitHub repository and upload the notebook file to the subfolder.
 
-7. from your folder in the class organization, refresh your repository with contents from your personal account. 
+7. from your folder in the class organization, refresh your repository with contents from your personal account. (applicable if you work in your personal GitHub repository)
 
-8. Copy the link to your GitHub repository in the organization to your assignment submission in Blackboard. No files should be uploaded to the BB.
+8. Submit the link to your assignment_02 folder in BB. No files should be uploaded to the BB.
