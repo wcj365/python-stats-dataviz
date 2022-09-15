@@ -74,14 +74,14 @@ Write a program that generates 100 random integers between 0 and 9.
 ```
 ## The Requirements:
 - You should program and test the solution in Jupyter notebook using Google Colab:
-- Save/upload the notebook file to your GitHub repository and fetch upstream
+- Save/upload the notebook file to your GitHub repository.
 - Submit the link of your GitHub repo to BB.
 
 ## Hints:
 - You can use Python standard library random to generate one random number at a time. 
-- You are likely to use nested loop - a loop within in another loop since you are dealing with a 10 x 10 matrix.
+- You are likely to use nested loop - a loop within in another loop since you are dealing with a two-dimentional matrix.
 - You will use modular operator (%) to determine if an integer is an odd number or an even number.
-- Use the "end=" option of the print() function to avoid a new line and also to add additional spaces. 
+- You may Use the "end=" option of the print() function to avoid a new line and also to add additional spaces. 
     - for example, print(9, end="   ") will print 9 followed by three spaces and not starting a new line.
 - Think through the logic. Try simple things first. Don't make it too complicated. You only need a few lines of code.
 
@@ -90,7 +90,7 @@ Write a program that generates 100 random integers between 0 and 9.
 2. Generate one row of 10 number using for loop. 
 3. Generate 10 rows using another for loop.
 4. Don't use print(a_list) function which displays unwanted brackets "[" and "]". 
-5. Print one number at a time so that you have full control of what to print and how to print (adding spaces, summation, and other simbols). 
+5. Print one number at a time using a loop so that you have full control of what to print and how to print (adding spaces, summation, and other simbols). 
 6. Experiment easy things:
     - For example, use random library to generate 10 numbers and print them one at a time in a for loop.
     - If it prints each number in a separate line, find a way to print them all in one line. 
