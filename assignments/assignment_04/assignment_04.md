@@ -1,36 +1,41 @@
 
 # Assignment 04
 
-## Part A - Using Python
-
-1. Write code to open the text file [census_costs.txt](census_costs.txt) and read all lines into a list named **"line_list"**. Print line_list.
-2. Extract the first two lines and put them in a different list named "top2_list". You will need to use them later. Print the top2_list.
-3. Put the rest of the lines (containing useful data elements) in a new list named "data_list". Print data_list.
-4. Extract the column **"Census Year"** from data_list and assign them to a list named **year_list**. Remove the "\*" from the last element "2010*". Print the cleansed year_list.
-5. Extract the **"Total Population"** column from the data_list and assign them to a list named **"pop_list"**. Remove the "," from the numbers since Python doesn't recognize them. Print the cleansed "pop_list".
-6. Extract the **"Census Cost"** column from the data_list and assign them to a list named **"cost_list"**. Remove the ",", and "$", and "Billion".
-Make sure to add the "0"s to the numbers from which you removed "Billion". Print the cleansed cost_list.  
-7. Extract the **"Average Cost per Person"** column from the data_list and assign them to a list named **"avg_list"**. Remove the "cents", and "$".
-Make sure to divide the numbers in cents by 100 so that all numbers are measured in dollar. Print the cleansed avg_list.
-8. Coalesce the cleansed data and save them to a text file named "census_cost.csv". The new file should look similar to the original source file except that it is in 
-comma-delimited format and the numbers have been cleansed. The top two lines from the original file should be retained in the new file.
-9. Write code to open the newly-created file "census_cost.csv", read all lines and display them. How does it look?
-10. Upload the output file to your GitHub repository.
-
-## Part B - Using Pandas
-
-**Note:** You will use a separate Jupyter Notebook file.
-
-1. Use Pandas to read the file census_costs.txt file
-2. Find out how many rows and columns it has
-3. Display first 10, last 10, and random 10 rows
-4. Find out the data types of all columns - use `info()` function
-5. Find out the summary statistics of all columns
-6. Cleanse the data to make the year, population, cost, cost per person numerical type - use `apply()` function
-7. Find out the summary statistics of the numerical columns - use `describe()` function
-8. Use Pandas built-in plotting function to plot the average cost per person over time.
-9. Use Pandas built-in plotting function to plot the scatter plot of Total Population vs Total Cost.
-
-
-### Give yourself a pat on the back. Good job! 
-### Now you know what data scientists do most of time: Data Cleansing.
+Note: You will be using Pandas for this assignment.
+1. Explore College Scorecard website - https://collegescorecard.ed.gov/ 
+2. Explore College Scorecard Data web page - https://collegescorecard.ed.gov/data/
+3. Download and read the documentation - https://collegescorecard.ed.gov/assets/FullDataDocumentation.pdf
+4. Download the dataset - https://ed-public-download.app.cloud.gov/downloads/CollegeScorecard_Raw_Data.zip (265MB Zip File)
+5. Unzip the file into a folder in your personal computer (there are many files, one for each school year)
+6. Upload the 2017-2018 school year file "MERGED2017_18_PP.csv" to Colab/Deepnote or any Cloud environment of your choice (you can use your local environment too) and create a Jupyter notebook to explore the dataset:   
+    - how many colleges or rows?   
+    - how many variables or columns?   
+    - Look at the first 5 colleges   
+    - look at the last 5 colleges
+    - Look at a random sample of 5 colleges    
+7. Since there are too many variables to explore, many of which are not interesting. Create a smaller data frame with the following 9 variables:
+    - UNITID
+    - INSTNM
+    - CITY
+    - STABBR
+    - ZIP
+    - ADM_RATE
+    - UGDS
+    - TUITIONFEE_IN
+    - MN_EARN_WNE_P10 
+8. Download and read (use naked eyes, no coding) the data dictionary file - https://collegescorecard.ed.gov/assets/CollegeScorecardDataDictionary.xlsx
+9. Find out the definition of the above 9 variables and document the definitions in the Jupyter Notebook in a Markdown cell so that the readers of your notebook
+will know the meaning of these variables.
+10. Explore the smaller data frame
+    - Look at the first 10 colleges   
+    - look at the last 10 colleges
+    - Look at a random sample of 10 colleges  
+    - Find and display UMBC 
+    - Find Univ. of Maryland College Park
+    - Find and display Loyola College Maryland
+    - Find and display Johns Hopskins
+    - Calculate the min, max, and average in-state tution of the above four institutions.
+ 11. Filter the smaller dataset further to only keep colleges from Maryland, Virgina, Washington DC, Delaware, and Pennsylvinia. Save the filtered dataset to a new file named "Five_States_Colleges.csv" for future analysis. Upload this file to your GitHub along with the notebook.
+ 
+**Note:** 
+- Make sure your notebook file is well organized using Markdown and code comments.
