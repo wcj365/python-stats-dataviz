@@ -15,3 +15,8 @@ Student solutions:
 
 - df.to_csv("Five_States_Colleges.csv", index=False)  (don't save the index as a column in the output)
 - df_read_csv(... usecols=[list of columns]) to reduce memory usage
+
+## Assignment 5
+
+- https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/tree/main/ASSIGNMENT-05 
+- https://github.com/konkasivaji/690-stats-and-visulaization/tree/main/Assignment_05
