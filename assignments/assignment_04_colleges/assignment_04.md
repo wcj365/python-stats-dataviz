@@ -1,4 +1,4 @@
-# Assignment 05
+# Assignment 04
 Note: You will be using Pandas for this assignment.
 1. Explore College Scorecard website - https://collegescorecard.ed.gov/ 
 2. Explore College Scorecard Data web page - https://collegescorecard.ed.gov/data/
