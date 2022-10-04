@@ -21,3 +21,4 @@ Student solutions:
 - https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/tree/main/ASSIGNMENT-05 
 - https://github.com/konkasivaji/690-stats-and-visulaization/tree/main/Assignment_05
 - https://github.com/kavyasreemaniga/DATA_690/tree/main/Assignment_05
+- https://github.com/Susrinivas/Python-Stats-and-Visualization/tree/main/Assignment_05
