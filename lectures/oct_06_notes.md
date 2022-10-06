@@ -17,6 +17,13 @@ Student solutions:
 - df.to_csv("Five_States_Colleges.csv", index=False)  (don't save the index as a column in the output)
 - df_read_csv(... usecols=[list of columns]) to reduce memory usage
 
+```
+import pandas as pd
+
+data = pd.read_csv("MERGED2017_18_PP.csv", usecols=['UNITID', 'INSTNM', 'CITY', 'STABBR', 'ZIP', 'ADM_RATE', 'UGDS', 'TUITIONFEE_IN', 'MN_EARN_WNE_P10'])
+data.head()
+```
+
 ## Assignment 5
 
 - https://github.com/YHarshitha1997/DATA-690-STATS-FALL-2022/tree/main/ASSIGNMENT-05 
