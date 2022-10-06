@@ -10,6 +10,7 @@ Student solutions:
 - https://github.com/konkasivaji/690-stats-and-visulaization/blob/main/Assignment_04/assignment_04.ipynb (concat)
 - five_state_colleges = data[(data['STABBR']=='MD') | (data['STABBR']=='VA') | (data['STABBR']=='DC') | (data['STABBR']=='DE') | (data['STABBR']=='PA')]
 - df_city= df_new.loc[df['STABBR'].str.contains("MD|VA|DC|DE|PA")]
+- Prefered: df2 = df[df["STAABR"].isin(["MD", "VA", "PA", "DC", "DE"])]
 
 ## Tips
 
