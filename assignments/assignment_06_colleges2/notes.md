@@ -18,15 +18,49 @@ https://github.com/Priyankabalumuri/690/blob/main/assignments_06/assignment_06.i
 
 ## 5 - Calculation of Growth Rate
 
-- Numpy Array
+### 5.1 - Use core Python
 
 ```
+def growth_rate(tuition_list):
+
+    # initialize empty list to hold year over year percent change
+    change_list = []
+
+    # loop through each year, calculate year over year percent change, and add to list
+    for i in range(len(tuition_list) - 1):
+        change_list.append((tuition_list[i+1] - tuition_list[i]) / tuition_list[i])
+
+    # round to 2 decimal places
+    change_list = [round(change_percent, 2) for change_percent in change_list]
+
+    return change_list
+    
+ 
+ # convert column to list
+tuition_list = list(df_JHU["TUITIONFEE_IN"])
+
+# call function and assign results to list
+change_list = growth_rate(tuition_list)
+
+print(change_list)
+
+df_JHU["PCT_CHANGE"] = np.nan
+df_JHU.PCT_CHANGE[1:] = change_list
+df_JHU
+
+```
+
+### 5.2 - Use Numpy Array
+
+```
+
 a = np.array(TUITIONFEE_IN_list, dtype=float)
 per_change=np.diff(a) / a[:-1] * 100.
 per_change
 
 rounded_list = [round(item, 2) for item in per_change]
 print(rounded_list) 
+
 ```
 
 
