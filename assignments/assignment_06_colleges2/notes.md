@@ -2,7 +2,9 @@
 
 # Using Matplotlib
 
-https://github.com/manishbhima/Data690_DVS/blob/main/assignment_06/assignment_06.ipynb
+- https://github.com/manishbhima/Data690_DVS/blob/main/assignment_06/assignment_06.ipynb
+
+- https://github.com/srisaisrikar/Data_690_assignments/blob/main/Assignment_06/Assignment_06.ipynb
 
 ## Using Seaborn
 
