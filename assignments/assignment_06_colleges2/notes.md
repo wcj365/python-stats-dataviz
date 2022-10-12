@@ -20,6 +20,11 @@ https://github.com/Priyankabalumuri/690/blob/main/assignments_06/assignment_06.i
 
 ### 5.1 - Use core Python
 
+'''
+growth_rate = [(instate_tuition[i] - instate_tuition[i-1])/instate_tuition[i-1] for i in range(len(instate_tuition))]
+growth_rate
+'''
+
 ```
 
 tut_fee = []
