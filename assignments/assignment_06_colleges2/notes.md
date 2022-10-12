@@ -81,6 +81,22 @@ print(rounded_list)
 
 ```
 
+### 5.3 - Using Pandas
+
+```
+import pandas as pd
+df = pd.DataFrame({
+     'FR': [5.0505, 5.0963, 5.3149],
+     'GR': [2.7246, 2.7482, 2.8519],
+     'IT': [904.74, 910.01, 960.13]},
+     index=['2000-01-01', '2000-02-01', '2000-03-01'])
+df_pct = df[["FR"]].pct_change()
+
+df_pct.rename(columns={"FR":"FR_PCT_CHANGE"}, inplace=True)
+
+df_new = pd.merge(df, df_pct, left_index=True, right_index=True)
+df_new
+```
 
 ## 6 - Python Data Visualization Ecosystem
 
