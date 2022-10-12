@@ -21,6 +21,19 @@ https://github.com/Priyankabalumuri/690/blob/main/assignments_06/assignment_06.i
 ### 5.1 - Use core Python
 
 ```
+
+tut_fee = []
+tut_fee.append(np.nan)
+for x, y in zip(tutionfee, tutionfee[1:]):
+    tut_fee.append((y - x) / x * 100)
+
+tut_fee
+
+Percent_list_tut = [round(item, 2) for item in tut_fee]
+
+```
+
+```
 def growth_rate(tuition_list):
 
     # initialize empty list to hold year over year percent change
