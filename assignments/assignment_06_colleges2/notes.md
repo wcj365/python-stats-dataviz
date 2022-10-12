@@ -16,7 +16,7 @@ https://github.com/Jyothsna9618/Jabboju1/blob/main/Assignment_06/assignment_06.i
 
 https://github.com/Priyankabalumuri/690/blob/main/assignments_06/assignment_06.ipynb
 
-## 5 Python Data Visualization Ecosystem
+## 5 - Python Data Visualization Ecosystem
 
 There are no shortage of data visualzation libraries in Python. Matplotlib, Seaborn, Plotly, Altair, Bokeh are among the most popular ones. 
 
