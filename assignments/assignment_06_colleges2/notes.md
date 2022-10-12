@@ -1,4 +1,4 @@
-# Assignment 06
+# Assignment 06 Data Visualization
 
 ## 1 - Using Matplotlib
 
