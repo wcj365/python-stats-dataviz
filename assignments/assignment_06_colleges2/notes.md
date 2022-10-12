@@ -1,5 +1,9 @@
 # Assignment 06
 
+# Using Matplotlib
+
+https://github.com/manishbhima/Data690_DVS/blob/main/assignment_06/assignment_06.ipynb
+
 ## Using Seaborn
 
 https://github.com/ramteja384/690_Assignment6/blob/main/690_Assignment_06.ipynb
