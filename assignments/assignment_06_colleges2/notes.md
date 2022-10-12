@@ -16,7 +16,21 @@ https://github.com/Jyothsna9618/Jabboju1/blob/main/Assignment_06/assignment_06.i
 
 https://github.com/Priyankabalumuri/690/blob/main/assignments_06/assignment_06.ipynb
 
-## 5 - Python Data Visualization Ecosystem
+## 5 - Calculation of Growth Rate
+
+- Numpy Array
+
+```
+a = np.array(TUITIONFEE_IN_list, dtype=float)
+per_change=np.diff(a) / a[:-1] * 100.
+per_change
+
+rounded_list = [round(item, 2) for item in per_change]
+print(rounded_list) 
+```
+
+
+## 6 - Python Data Visualization Ecosystem
 
 There are no shortage of data visualzation libraries in Python. Matplotlib, Seaborn, Plotly, Altair, Bokeh are among the most popular ones. 
 
@@ -45,16 +59,16 @@ The main disadvantage of Matplotlib and Seaborn is that their visualizations are
 Interactivity is where Plotly and Plotly Express shine. Similar to Matplotlib and Seaboran. Plotly is a low-level library while Plotly Express is a high-level library built on the foundation of Plotly.
 
 
-## 6 - Benefit of Plotly EXpress: Best of Both Worlds
+## 7 - Benefit of Plotly EXpress: Best of Both Worlds
 
-### 6.1 - Both Static and Interactive
+### 7.1 - Both Static and Interactive
 
 With Plotly Express, you can create highly interactive publication-quality visualizations. The visualizations can be published to a web site for sharing across the Internet. In addition, the visualizations can be exported as static images for embedding in online blogs, business reports, academic papers, presentations, and books.  
-#### 6.2 - Simple to Code yet Highly Customizable
+#### 7.2 - Simple to Code yet Highly Customizable
 
 As depicted in table 1, Plotly is a low-level interactive library and Plot Express is a high-level interactive library.  Plotly Express is built on top of Plotly and enjoys the best of both worlds. Plotly Express is simple yet powerful. It provides tens of built-in interactive charts with just one line of code while providing advanced functionality and customizations via access to the low-level functions of Plotly. 
 
-### 6.3 Backed by a viable Company and a lively Ecosystem 
+### 7.3 Backed by a viable Company and a lively Ecosystem 
 
 Plotly is also the name of a Toroto-based company which builds several related open source products based on Plotly.js, a Java Script library for interactive data visualization. These products include Plotly, Plotly Express, Dash, and Chart Studio. 
 
