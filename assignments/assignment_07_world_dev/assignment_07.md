@@ -5,6 +5,7 @@ This dataset was downloaded from the website http://www.worlddev.xyz. It contain
 You are to explore the dataset and produce data visualizations using the following requirements:
 
 - You must use Plotly/Plotly Express.
+- Use this link to load the data https://raw.githubusercontent.com/wcj365/python-stats-dataviz/master/assignments/assignment_07_world_dev/world_devlopment_indicator.csv
 - You must pick one indicator out of the four: population, life expectancy, GDP per capita, or suiside rate
 - You must pick a few countries of your interest and compare them to see how they differ in the indicator 
   - Compare one year (pick the latest year) using bar chart, pie chart, and boxplot 
