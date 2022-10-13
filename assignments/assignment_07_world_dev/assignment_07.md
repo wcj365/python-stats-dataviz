@@ -15,3 +15,4 @@ You are to explore the dataset and produce data visualizations using the followi
   - Note: For population, you compare total, for the other three indicators, you compare the average.
 - Use all countries, and pick year 2020, make a scatter plot with x being GDP per Capita and y being Life Expentancy. This plot will tell you the relationship between wealth and health.
 - Make sure you structure your notebooks and provide great format/style with Markdown cells, documdentations, and code comments.
+
