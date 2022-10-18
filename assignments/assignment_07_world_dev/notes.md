@@ -10,3 +10,11 @@ Two approaches: as_index=False vs reset_index()
 Sort the values for bar chart
 
 - df8 = df8.sort_values(by="value", ascending=False)
+
+## Title for Axis
+
+```
+fig.update_layout(
+    xaxis_title="GDP per Capita",
+    yaxis_title="Life Expectancy")
+```
