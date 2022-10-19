@@ -1,5 +1,9 @@
 # Assignment 07
 
+## Comparing Regions
+
+Some of you did not use data from all countries.
+
 ## Groupby
 
 Two approaches: as_index=False vs reset_index()
