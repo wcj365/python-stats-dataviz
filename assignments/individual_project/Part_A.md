@@ -29,7 +29,7 @@ For this part, you wear a different hat. **No programming is required**. Analyti
 - Determine what countries are interesting to you
     - You must select a few countries for comparison
     - You are not just randomly picking countries 
-    - You pick the countries that show some characteristics so that the comparison makes sense. 
+    - You pick the countries so that the comparison makes sense. 
     - For example, you may select countries in BRICS or G7 
 - Determine what time span you would like to cover
     -  The data span from 1960 to 2021
