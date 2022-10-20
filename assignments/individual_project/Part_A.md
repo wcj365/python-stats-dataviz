@@ -16,7 +16,9 @@ For this part, you wear a different role. **No programming is required**. Analyt
 - Use this page to understand the definition of each topic and its indicators
     - http://www.worlddev.xyz/indicators
 - Use this page to get familiar with regions and countries 
-    - http://www.worlddev.xyz/countries    - 
+    - http://www.worlddev.xyz/countries 
+- Use this page to see example work from previous students   
+    - https://www.worlddev.xyz/featured 
 ## Step 3. Think about your interests 
 - Determine What Topics are interesting to you? 
     - There are 22 topics inclding Health, Environment, Education, Energy, etc.
@@ -25,9 +27,9 @@ For this part, you wear a different role. **No programming is required**. Analyt
 - Determine what countries are interesting to you
     - You must select at least two countries for comparison
 - Determine what time span you would like to cover
-    -  The data span from 1960 to 2018
+    -  The data span from 1960 to 2021
     -  Your time span must be at least 5 years
-    -  Suggestion: **2010 to 2018**
+    -  Suggestion: **2010 to 2020**
 ## Step 4. Use WDX to explore the topics and indicators of your interests
 - Try to utilize all charts provided by WDX
 - Download the charts that are insightful 
@@ -36,25 +38,28 @@ For this part, you wear a different role. **No programming is required**. Analyt
 ## Step 5. Write a report using Markdown format to document your effort
 - Think of yourself writing a blog that will be published on the web. 
     - For example, http://www.medium.com
-- You must use Markdown format not Jupyter Notebook format
-- You must use at least three different charts (for example, 2D scatter, Bar, and Line chart)
+- You must use Markdown file not Jupyter Notebook file
+- You must use at least three different charts (for example, scatter, Bar, and Line chart)
 - You should provide a detailed introduction about the project, for example,
     - What is it that you are investigating/exploring/analyzing (provide sufficient background information)?
     - Why is it important to you and/or to others?
     - What questions do you have in mind and would like to answer?
-    - Where do you get the data to help answer your questions?  
-    - What process/step you use to analyze the situation/issue
-- You will report the findings and your analysis of each issue/question after the introduction
-- Use the downloaded charts and provide interpretations/explanations/analysis
+    - Where do you get the data and charts to help answer your questions (give references/credits)?  
+    - What process/step you use to analyze the situation/issue?
+- Include the downloaded charts in your report and provide interpretations/explanations/analysis
 - You compare different countries and show similarities/differences and their implcations 
-    - Use Bar charts
+    - Use Bar/pie charts
+    - Pick one year
 - You also look at the historic trend to spot any changes
     - Use Line charts
-- You will also explore relations between different topics/indicators 
+    - Use all years
+- You will also explore relations between different indicators 
     - For example, wealth may impact health, women's education levels may impact their employment.
-    - Use scatter plots (2D scatter and/or bubble chart)
+    - Use scatter plots (scatter and/or bubble chart)
+    - You **MUST** use data from all countries (not just data from the countries you choose). Becasue we need large sample size to infer on association/relation.
 ## Step 6. Create a separate GitHub repository for this project
-- Name the project "world_development_explorer"
+- Name the project "data690_world_dev"
+- Create a Markdown file called "wdx_analysis.md" in the root folder for your report 
 - Create a folder call "charts" and upload the charts there
-- Create a Markdown file called "wdx_analysis.md" for your report
+- Create a folder called "ipynb" which will be used later for jupyter notebook(s) you develop for data visualization
 - Submit the link to this repository to Black Board
