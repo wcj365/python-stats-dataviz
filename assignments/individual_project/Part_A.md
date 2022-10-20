@@ -1,5 +1,5 @@
 # Individual Project Part A
-For this part, you wear a different role. **No programming is required**. Analytical and communications skills are required.
+For this part, you wear a different hat. **No programming is required**. Analytical and communications skills are required.
 ## You ARE a
 - Data analyst
 - Business analyst
