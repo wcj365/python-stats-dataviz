@@ -24,8 +24,13 @@ For this part, you wear a different hat. **No programming is required**. Analyti
     - There are 22 topics inclding Health, Environment, Education, Energy, etc.
     - For each topic of your interest, explore the vast indicators 
 - Determine what indicators are interesting to you
+    - You must select at least two indicators 
+    - The two indicators should have some relationship/association (for example health vs wealth, education vs employment)
 - Determine what countries are interesting to you
-    - You must select at least two countries for comparison
+    - You must select a few countries for comparison
+    - You are not just randomly picking countries 
+    - You pick the countries that show some characteristics so that the comparison makes sense. 
+    - For example, you may select countries in BRICS or G7 
 - Determine what time span you would like to cover
     -  The data span from 1960 to 2021
     -  Your time span must be at least 5 years
@@ -39,7 +44,6 @@ For this part, you wear a different hat. **No programming is required**. Analyti
 - Think of yourself writing a blog that will be published on the web. 
     - For example, http://www.medium.com
 - You must use Markdown file not Jupyter Notebook file
-- You must use at least three different charts (for example, scatter, Bar, and Line chart)
 - You should provide a detailed introduction about the project, for example,
     - What is it that you are investigating/exploring/analyzing (provide sufficient background information)?
     - Why is it important to you and/or to others?
@@ -47,13 +51,13 @@ For this part, you wear a different hat. **No programming is required**. Analyti
     - Where do you get the data and charts to help answer your questions (give references/credits)?  
     - What process/step you use to analyze the situation/issue?
 - Include the downloaded charts in your report and provide interpretations/explanations/analysis
-- You compare different countries and show similarities/differences and their implcations 
+- **Requirement A** - You compare different countries and show similarities/differences and describe your analysis 
     - Use Bar/pie charts
     - Pick one year
-- You also look at the historic trend to spot any changes
+- **Requirement B** - You also look at the historic trend to spot any changes
     - Use Line charts
     - Use all years
-- You will also explore relations between different indicators 
+- **Requirement C** - You will explore relations between two indicators 
     - For example, wealth may impact health, women's education levels may impact their employment.
     - Use scatter plots (scatter and/or bubble chart)
     - You **MUST** use data from all countries (not just data from the countries you choose). Becasue we need large sample size to infer on association/relation.
