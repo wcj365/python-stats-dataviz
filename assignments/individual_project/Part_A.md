@@ -61,6 +61,7 @@ For this part, you wear a different hat. **No programming is required**. Analyti
     - For example, wealth may impact health, women's education levels may impact their employment.
     - Use scatter plots (scatter and/or bubble chart)
     - You **MUST** use data from all countries (not just data from the countries you choose). Becasue we need large sample size to infer on association/relation.
+    - Pick just one year
 ## Step 6. Create a separate GitHub repository for this project
 - Name the project "data690_world_dev"
 - Create a Markdown file called "wdx_analysis.md" in the root folder for your report 
