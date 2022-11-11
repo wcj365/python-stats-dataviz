@@ -15,8 +15,8 @@ import random
 quiz_cnt = 5                              # Total number of quizzes 
 max_trials = 3                            # Maximum number of trials for a given quiz
 
-start_int = 1                             # The minimum number used in the quiz
-stop_int = 10                             # The maximum number used in the quiz
+start_int = 10                             # The minimum number used in the quiz
+stop_int = 50                             # The maximum number used in the quiz
 
 operation_list = ("+", "-", "*", "/")     # Remove elements to limit the choices
 
