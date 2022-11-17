@@ -17,5 +17,5 @@ Session | Date   | Topic                                                        
 12      | Nov 17 | Inferential Statistics - Point and Interval Estimation              | Assignment 10
 BREAK   | Nov 24 | Thanksgiving - NO CLASS                                             | Happy Holiday
 13      | Dec 01 | Inferential Statistics - Hypothesis Testing                         | No Assignment
-14      | Dec 08 | pythonanywhere.com - bash, Python scripts, pip, venv                | No Assignment                              
-15      | Dec 15 | Last Class - Intro to Machine Learning                              | No Assignment 
+14      | Dec 08 | pythonanywhere.com - bash, git, Python scripts, pip, venv, website  | No Assignment                              
+15      | Dec 15 | Last Class                                                          | No Assignment 
